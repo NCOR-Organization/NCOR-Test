@@ -1,4 +1,31 @@
+<styles>
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
     
+    .grid-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* centers the content horizontally */
+    }
+    
+    .grid-item img {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+    
+    .grid-item-content {
+        max-height: 250px; /* set to the height of the image */
+        max-width: 200px;
+        overflow: hidden; /* hides any content that exceeds the max-height */
+        text-align: center; /* centers the text */
+        padding: 10px 0; /* some vertical padding */
+    }   
+</styles>
     <center><h1>NCOR Leadership</h1></center>
     
     <div class="grid-container">
