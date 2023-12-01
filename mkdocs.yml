@@ -5,8 +5,6 @@ site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
 theme: 'lux'
-  features: 
-    - navigation.tabs
 
 nav:
   - About: index.md
