@@ -8,7 +8,7 @@
 .grid-item {
         display: flex;
         flex-direction: column;
-        align-items: center; /* centers the content horizontally */
+        align-items: center; 
     }
     
 .grid-item img {

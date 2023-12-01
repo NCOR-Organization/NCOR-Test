@@ -1,4 +1,4 @@
-Basic Formal Ontology ISO/IEC 21838:2 Specialist 
+# Basic Formal Ontology ISO/IEC 21838:2 Specialist 
 
 Participants will gain facility with applying BFO classes and relations to a range of practical modeling problems while maintaining conformance to the top-level ontology 21838:2 specification. A standard training package consists of four days, 4 hours per day, for a total of 16 hours. An expedited training package consists of two days, 8 hours per day, for a total of 16 hours. Topics covered include:
 
@@ -9,7 +9,7 @@ Motivation for and critical analysis of the BFO hierarchy
 Comparison of BFO modeling choice-points to those found in other top-level ontology architectures
  
 
-Tentative Schedule (4 Day)
+## Tentative Schedule (4 Day)
 
 Day 1
 
