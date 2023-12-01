@@ -9,7 +9,7 @@ theme:
   palette:
     primary: 'lux'  # Specify Bootswatch theme here
 
-pages:
+nav:
   - About: index.md
   - Projects: 
     - Ontology 101 WG: ontology-101-wg.md
