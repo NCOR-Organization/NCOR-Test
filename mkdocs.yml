@@ -9,12 +9,13 @@ theme:
   palette:
     primary: black
   features:
+    - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
 
 nav:
   - About: index.md
-  - Projects: 
+  - NCOR Labs: 
     - Ontology 101 WG: ontology-101-wg.md
     - Common Core Ontologies WG: cco-wg.md
     - Semantic Mappings WG: semantic-map-wg.md
@@ -23,9 +24,13 @@ nav:
     - People: people.md
     - Organizations: organizations.md
   - Publications: publications.md
-  - NCOR Labs: ncor-labs.md
+  - Training: training.md
   - Events: events.md
 
-plugins: []
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+    - icon: fontawesome/brands/github
+    - icon: fontawesome/brands/slack
 
 extra_css: [style.css]
