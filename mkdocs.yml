@@ -4,6 +4,9 @@ site_description: NCOR Homepage
 site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
+extra_css: 
+  - stylesheets/extra.css
+  
 theme:
   name: material
   palette:
@@ -32,6 +35,3 @@ extra:
     - icon: fontawesome/brands/linkedin
     - icon: fontawesome/brands/github
     - icon: fontawesome/brands/slack
-
-extra_css: 
-  - stylesheets/extra.css
