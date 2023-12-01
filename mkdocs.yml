@@ -8,15 +8,15 @@ theme:
   name: 'mkdocs'  # Use default MkDocs theme
   palette:
     primary: 'lux'  # Specify Bootswatch theme here
-    
+
 nav:
   - About: index.md
-  - Projects: projects.md
+  - Projects:
     - Ontology 101 WG: ontology-101-wg.md
     - Common Core Ontologies WG: cco-wg.md
     - Semantic Mappings WG: semantic-map-wg.md
     - Industrial Ontologies WG: iof-wg.md
-  - Affiliates: affiliates.md
+  - Affiliates:
     - People: people.md
     - Organizations: organizations.md
   - Publications: publications.md
