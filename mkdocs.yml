@@ -19,3 +19,5 @@ nav:
   - Publications: publications.md
   - NCOR Labs: ncor-labs.md
   - Events: events.md
+
+plugins: []
