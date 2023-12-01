@@ -1,3 +1,7 @@
 .bs-sidebar{
     display: none;
     }
+
+h1 {
+    color: red;
+  }
