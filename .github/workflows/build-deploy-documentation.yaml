@@ -21,10 +21,10 @@ jobs:
           
       # install dependencies
       - run: pip install --upgrade pip
-      - run: pip install mkdocs mkdocs-bootswatch
+      - run: pip install mkdocs mkdocs-material
  
       # Build the documentation
       - run: mkdocs build
 
       # Deploy using ghp-import
-      - run: mkdocs gh-deploy --remote-branch gh-pages --force
+      - run: mkdocs gh-deploy --remote-branch gh-pages --force --theme material

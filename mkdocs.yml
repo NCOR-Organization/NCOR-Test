@@ -4,7 +4,10 @@ site_description: NCOR Homepage
 site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
-theme: 'lux'
+theme:
+  name: material
+  palette:
+    primary: 'black'
 
 nav:
   - About: index.md
