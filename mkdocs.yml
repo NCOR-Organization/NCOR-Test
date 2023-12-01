@@ -9,7 +9,6 @@ theme:
   palette:
     primary: black
   features:
-    - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
 
@@ -33,4 +32,4 @@ extra:
     - icon: fontawesome/brands/github
     - icon: fontawesome/brands/slack
 
-extra_css: [style.css]
+extra_css: [extra.css]
