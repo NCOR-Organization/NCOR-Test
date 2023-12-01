@@ -5,9 +5,7 @@ site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
 theme:
-  name: 'bootswatch'
-  palette:
-    primary: 'lux'  # Specify Bootswatch theme here
+  name: 'lux'
 
 nav:
   - About: index.md
