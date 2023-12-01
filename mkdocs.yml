@@ -5,7 +5,7 @@ site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
 theme:
-  name: 'mkdocs'  # Use default MkDocs theme
+  name: 'bootswatch'
   palette:
     primary: 'lux'  # Specify Bootswatch theme here
 
