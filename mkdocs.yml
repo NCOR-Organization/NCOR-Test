@@ -5,7 +5,11 @@ site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
 theme: 
-  name: lux
+  name: 'mkdocs'
+  palette:
+    primary: 'light'
+    accent: 'light'
+  theme: 'lux'  # Specify Bootswatch theme here
 nav:
   - About: index.md
   - Projects: projects.md
