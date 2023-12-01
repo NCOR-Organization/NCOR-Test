@@ -21,3 +21,6 @@ nav:
   - Events: events.md
 
 plugins: []
+
+extra_css:
+  - style.css
