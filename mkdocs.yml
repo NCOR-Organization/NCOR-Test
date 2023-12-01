@@ -1,6 +1,6 @@
 site_name: "National Center for Ontological Research"
 repo_url: https://github.com/johnbeve/NCOR-Test/
-site-description: NCOR Homepage
+site_description: NCOR Homepage
 site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
@@ -11,12 +11,12 @@ theme:
 
 nav:
   - About: index.md
-  - Projects:
+  - Projects: projects.md
     - Ontology 101 WG: ontology-101-wg.md
     - Common Core Ontologies WG: cco-wg.md
     - Semantic Mappings WG: semantic-map-wg.md
     - Industrial Ontologies WG: iof-wg.md
-  - Affiliates:
+  - Affiliates: affiliates.md
     - People: people.md
     - Organizations: organizations.md
   - Publications: publications.md
