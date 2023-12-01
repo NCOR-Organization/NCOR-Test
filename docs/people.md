@@ -60,7 +60,7 @@
     </div>
 </div>
 
-    <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
+<div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
 
 <center><h1>NCOR Members</h1></center>
 
