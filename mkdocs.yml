@@ -5,9 +5,8 @@ site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
 theme:
-  name: material
   palette:
-    primary: 'black'
+    primary: deep purple
 
 nav:
   - About: index.md
