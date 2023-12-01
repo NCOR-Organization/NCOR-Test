@@ -7,9 +7,8 @@ edit_uri: '?query=root/NCOR-Test/docs/'
 theme:
   name: material
   palette:
-    primary: deep purple
+    primary: black
   features:
-    - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
 
