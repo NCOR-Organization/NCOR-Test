@@ -32,4 +32,5 @@ extra:
     - icon: fontawesome/brands/github
     - icon: fontawesome/brands/slack
 
-extra_css: [extra.css]
+extra_css: 
+  - 'extra.css'
