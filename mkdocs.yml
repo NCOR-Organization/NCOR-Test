@@ -4,12 +4,11 @@ site-description: NCOR Homepage
 site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
-theme: 
-  name: mkdocs
+theme:
+  name: 'mkdocs'  # Use default MkDocs theme
   palette:
-    primary: light
-    accent: light
-  theme: lux  # Specify Bootswatch theme here
+    primary: 'lux'  # Specify Bootswatch theme here
+    
 nav:
   - About: index.md
   - Projects: projects.md
