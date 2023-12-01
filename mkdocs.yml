@@ -33,4 +33,4 @@ extra:
     - icon: fontawesome/brands/slack
 
 extra_css: 
-  - 'extra.css'
+  - stylesheets/extra.css
