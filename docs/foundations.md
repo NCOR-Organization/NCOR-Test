@@ -2,7 +2,9 @@
 
 [Basic Formal Ontology Practitioner](assets/bfo-practitioner.png)
 
-<img src="https://github.com/johnbeve/NCOR-Test.github.io/blob/b7008a35adf2d9e94937dae3a0bb9cc2fb914c8b/docs/assets/bfo-practitioner.png" alt="Basic Formal Ontology Practitioner" width="50%" height="auto">
+
+<img src="https://github.com/johnbeve/NCOR-Test/blob/main/docs/assets/bfo-practitioner.png
+" width="50%" height="auto">
 
 Participants will learn the philosophcal and practial motivations for the contemporary version of Basic Formal Ontology (BFO). Participants will learn the history of BFO, including important aspects of previous versions, as well as the future of BFO.
 
