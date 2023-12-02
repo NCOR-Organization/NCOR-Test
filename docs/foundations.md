@@ -1,7 +1,5 @@
 # Foundational Certificates
 
-[Basic Formal Ontology Practitioner](assets/bfo-practitioner.png)
-
 
 <img src="https://github.com/johnbeve/NCOR-Test/blob/main/docs/assets/bfo-practitioner.png
 " width="50%" height="auto">
