@@ -1,6 +1,6 @@
 # NCOR Certificate Pathways
 
-<img src="/docs/assets/Screenshot 2023-12-01 at 9.01.27 PM.png" alt="NCOR Certification Pathways">
+![NCOR Pathways](assets/ncor-pathways.png)
 
 Foundational Certificates
 	• BFO: Basic Formal Ontology Practitioner
