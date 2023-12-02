@@ -11,3 +11,5 @@ Participants will gain expertise with standard ontology engineering best practic
 
 
 <img src="https://github.com/johnbeve/NCOR-Test/raw/main/docs/assets/bfo-practitioner.png" width="50%" height="auto">
+
+<img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/bfo-practitioner.png" width="50%" height="auto">
