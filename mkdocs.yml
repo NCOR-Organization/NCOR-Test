@@ -16,6 +16,8 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
+  hide:
+    - toc
 
 nav:
   - About: index.md
