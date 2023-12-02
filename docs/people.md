@@ -4,20 +4,17 @@
         grid-template-columns: repeat(3, 1fr);
         gap: 20px;
     }
-    
 .grid-item {
         display: flex;
         flex-direction: column;
         align-items: center; 
     }
-    
 .grid-item img {
         width: 200px;
         height: 200px;
         object-fit: cover;
         border-radius: 5px;
     }
-    
 .grid-item-content {
         max-height: 250px; /* set to the height of the image */
         max-width: 200px;
@@ -27,8 +24,7 @@
     }
 </style>
 
-<p style="font-size:18px"><center><b>NCOR Leadership</b></center></p>
-    
+<p style="font-size:25px"><center><b>NCOR Leadership</b></center></p>
 <div class="grid-container">
     <div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Barry-Smith-300x300.jpg" alt="Barry Smith">
@@ -39,17 +35,15 @@
             <p><em>Research in Theoretical and Applied Ontology</em></p>
         </div>
     </div>
-
     <div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
-            NCOR Vice President
+            Co-Director NCOR
             <a href="https://www.buffalo.edu/cas/philosophy.html">Assistant Professor Department of Philosophy University at Buffalo</a>
             <p><em>Research in Applied Ontology, Logic, Metaphysics, and Social Epistemology</em></p>
         </div>
     </div>
-
     <div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Allen Ruttenberg">
         <div class="grid-item-content">
@@ -62,7 +56,7 @@
 
 <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
 
-<center><h1>NCOR Members</h1></center>
+<p style="font-size:25px"><center><b>NCOR Members</b></center></p>
 
 <div class="grid-container">
     <div class="grid-item">
@@ -73,7 +67,6 @@
             <p><em>Research in Traditional Metaphysics and Applied Ontology</em></p>
         </div>
     </div>
-    
     <div class="grid-item">
         <img src="https://dental.ufl.edu/files/2022/03/image00181.png" alt="Bill Duncan">
         <div class="grid-item-content">
@@ -82,7 +75,6 @@
             <p><em>Research in Ontology, Dental Informatics, &amp; Machine Learning</em></p>
         </div>
     </div>
-    
     <div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Rajiv-Kishore-233x300.jpg" alt="Rajiv Kishore">
         <div class="grid-item-content">
