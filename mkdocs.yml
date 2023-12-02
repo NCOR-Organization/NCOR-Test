@@ -27,8 +27,8 @@ nav:
   - Affiliates: 
     - People: people.md
     - Organizations: organizations.md
-  - Training: training.md
-    - NCOR Pathways: ncor-pathways.md
+  - Training: 
+    - NCOR Pathways: training.md
     - Foundations: foundations.md
     - Associate: associate.md
     - Specialist: specialist.md
