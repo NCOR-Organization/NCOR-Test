@@ -1,4 +1,23 @@
-# Basic Formal Ontology ISO/IEC 21838:2 Specialist 
+# NCOR Certificate Pathways
+
+<img src="/docs/assets/Screenshot 2023-12-01 at 9.01.27 PM.png" alt="NCOR Certification Pathways">
+
+Foundational Certificates
+	• BFO: Basic Formal Ontology Practitioner
+	• ONE: Ontology Engineer 
+
+Associate Certificates 
+	• KES: Knowledge Extraction Specialist (Prerequisite: ONE)
+	• SWD: Semantic Web DevOps Engineer (Prerequisite: ONE)
+	• TLO: Top-Level Ontology Engineer (Prerequisite: BFO)
+	• MLO: Mid-Level Ontology Engineer (Prerequisite: BFO)
+
+Specialist Certificates
+	• SWS: Semantic Web Security Specialist (Prerequisites: KES, SWD)
+	• RTE: Referent Tracking Specialist (Prerequisites: KES, MLO)
+DLS: Description Logic Specialist (Prerequisites: KES, SWD)
+
+## Basic Formal Ontology ISO/IEC 21838:2 Specialist 
 
 Participants will gain facility with applying BFO classes and relations to a range of practical modeling problems while maintaining conformance to the top-level ontology 21838:2 specification. A standard training package consists of four days, 4 hours per day, for a total of 16 hours. An expedited training package consists of two days, 8 hours per day, for a total of 16 hours. Topics covered include:
 
@@ -9,7 +28,7 @@ Motivation for and critical analysis of the BFO hierarchy
 Comparison of BFO modeling choice-points to those found in other top-level ontology architectures
  
 
-## Tentative Schedule (4 Day)
+### Tentative Schedule (4 Day)
 
 Day 1
 
@@ -48,7 +67,7 @@ SPARQL for ontology information extraction
 SHACL for ontology validation
  
 
-Tentative Schedule (4 Day)
+### Tentative Schedule (4 Day)
 
 Day 1
 
