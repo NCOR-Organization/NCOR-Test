@@ -27,7 +27,7 @@
     }
 </style>
 
-<center><h1>NCOR Leadership</h1></center>
+<center><b>NCOR Leadership</b></center>
     
 <div class="grid-container">
     <div class="grid-item">
