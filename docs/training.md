@@ -2,18 +2,53 @@
 
 ![NCOR Pathways](assets/ncor-pathways.png)
 
-Foundational Certificates
-    - BFO: Basic Formal Ontology Practitioner
-    - ONE: Ontology Engineer
+<div>
+    <h2>Foundational Certificates</h2>
+    <ul>
+        <li>BFO: Basic Formal Ontology Practitioner</li>
+        <li>ONE: Ontology Engineer</li>
+    </ul>
 
-Associate Certificates
-    - KES: Knowledge Extraction Specialist (Prerequisite: ONE)
-    - SWD: Semantic Web DevOps Engineer (Prerequisite: ONE)
-    - TLO: Top-Level Ontology Engineer (Prerequisite: BFO)
-    - MLO: Mid-Level Ontology Engineer (Prerequisite: BFO)
+    <h2>Associate Certificates</h2>
+    <ul>
+        <li>KES: Knowledge Extraction Specialist
+            <ul>
+                <li>Prerequisite: ONE</li>
+            </ul>
+        </li>
+        <li>SWD: Semantic Web DevOps Engineer
+            <ul>
+                <li>Prerequisite: ONE</li>
+            </ul>
+        </li>
+        <li>TLO: Top-Level Ontology Engineer
+            <ul>
+                <li>Prerequisite: BFO</li>
+            </ul>
+        </li>
+        <li>MLO: Mid-Level Ontology Engineer
+            <ul>
+                <li>Prerequisite: BFO</li>
+            </ul>
+        </li>
+    </ul>
 
-Specialist Certificates
-    - SWS: Semantic Web Security Specialist (Prerequisites: KES, SWD)
-    - RTE: Referent Tracking Specialist (Prerequisites: KES, MLO)
-    - DLS: Description Logic Specialist (Prerequisites: KES, SWD)
-
+    <h2>Specialist Certificates</h2>
+    <ul>
+        <li>SWS: Semantic Web Security Specialist
+            <ul>
+                <li>Prerequisites: KES, SWD</li>
+            </ul>
+        </li>
+        <li>RTE: Referent Tracking Specialist
+            <ul>
+                <li>Prerequisites: KES, MLO</li>
+            </ul>
+        </li>
+        <li>DLS: Description Logic Specialist
+            <ul>
+                <li>Prerequisites: KES, SWD</li>
+            </ul>
+        </li>
+    </ul>
+</div>
