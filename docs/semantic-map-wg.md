@@ -1,0 +1,1 @@
+The PROV-O to BFO working group has the aim of mapping the Provenance Ontology into the BFO environment. The group of ontologists and developers meets weekly in order to discuss possible translations between the two frameworks and create a standardized vocabulary to structure Provenance information.

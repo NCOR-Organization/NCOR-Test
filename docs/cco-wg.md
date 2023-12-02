@@ -1,0 +1,1 @@
+The University at Buffalo Common Core Ontologies Working group is constituted of academics and professionals with a common interest in CCO based domain ontology engineering. Members meet weekly to discuss their projects ranging from the world of sports and gaming, to finance and law. 
