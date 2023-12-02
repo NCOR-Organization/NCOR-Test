@@ -9,3 +9,5 @@ Participants will learn the philosophcal and practial motivations for the contem
 
 Participants will gain expertise with standard ontology engineering best practices, tools, and modeling strategies. Participants will become proficient in constructing, maintaining, and curating ontologies in a modern software development workflow.
 
+
+<img src="https://github.com/johnbeve/NCOR-Test/blob/main/docs/assets/bfo-practitioner.png" width="50%" height="auto">
