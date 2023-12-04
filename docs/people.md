@@ -550,7 +550,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="/assets/photos/federico.png" alt="Federico Donato" width="200" height="200">
+        <img src="https://github.com/johnbeve/NCOR-Test/blob/main/docs/assets/photos/federico.png" alt="Federico Donato" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/federico-donato-100b9424b/">Federico Donato</a></h3>
             Graduate Student <br> Department of Philosophy University at Buffalo
