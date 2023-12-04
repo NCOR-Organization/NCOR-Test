@@ -84,7 +84,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2018/12/IMG_0282-150x150.jpeg" alt="David Limbaugh">
         <div class="grid-item-content">
             <h3><a href="http://davidglimbaugh.com/">David G. Limbaugh</a></h3>
@@ -93,7 +93,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
@@ -102,7 +102,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Mauricio-B.-Almedia.jpg" alt="Mauricio B. Almeida">
         <div class="grid-item-content">
             <h3><a href="https://mba.eci.ufmg.br/english/">Mauricio B Almeida</a></h3>
@@ -111,7 +111,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Lindsay-Cowell-206x300.jpg" alt="Lindsay Cowell">
         <div class="grid-item-content">
             <h3><a href="http://www.utsouthwestern.edu/fis/faculty/120432/lindsay-cowell.html">Lindsay Cowell</a></h3>
@@ -120,7 +120,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2019/12/janna-photo-2.jpg" alt="Janna Hastings">
         <div class="grid-item-content">
             <h3><a href="//hastingslab.org/">Janna Hastings</a></h3>
@@ -129,7 +129,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Landgrebe-300x169.jpg" alt="Jobst Landgrebe">
         <div class="grid-item-content">
             <h3><a href="http://www.cognotekt.com">Jobst Landgrebe</a></h3>
@@ -138,7 +138,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/EricHeadshotBlackBG-scaled.jpg" alt="Eric Little">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/eric-little-71b2a0b/">Eric Little</a></h3>
@@ -146,7 +146,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/fabian.jpg" alt="Fabian Neuhaus">
         <div class="grid-item-content">
             <h3><a href="http://iws.cs.uni-magdeburg.de/~fneuhaus/">Fabian Neuhaus</a></h3>
@@ -155,7 +155,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/02/PierreGrenon_2020-scaled.jpg" alt="Pierre Grenon">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/pierregrenon/">Pierre Grenon</a></h3>
@@ -164,7 +164,7 @@
         </div>
     </div>
 
-        <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2019/09/Big-Profile-300x291.jpeg" alt="Jonathan Simon" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://jonsimon.net">Jonathan Simon</a></h3>
@@ -173,7 +173,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/JMPO-e1470339113124-225x300.jpg" alt="José M Parente de Oliveira" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/jose-m-parente-de-oliveira-53188618/">José M Parente de Oliveira</a></h3>
@@ -182,7 +182,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://www.buffalo.edu/content/cas/philosophy/grad-study/grad_directory/jcr:content/par/image_1660011936.img.140.140.z.jpg/1649966366698.z.jpg" alt="Carter-Beau Benson" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/carter-benson-60923b270/">Carter-Beau Benson</a></h3>
@@ -191,7 +191,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://www.buffalo.edu/content/cas/philosophy/grad-study/grad_directory/jcr:content/par/image_1660011936_cop_95204478.img.140.140.z.jpg/1663614423960.z.jpg" alt="Delaney McNulty" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/delaney-mcnulty-20541918a/">Delaney McNulty</a></h3>
@@ -200,7 +200,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://www.buffalo.edu/content/cas/philosophy/grad-study/grad_directory/jcr:content/par/image_1660011936_cop_568322255.img.280.280.z.q65.jpg/1649966708999.jpg" alt="Gloria Sanso" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://labont.it/people/gloria-sanso/">Gloria Sanso</a></h3>
@@ -209,7 +209,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alexander-D.-Diehl-200x300.jpg" alt="Alexander D. Diehl" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/alexander-diehl-2b074b/">Alexander D. Diehl</a></h3>
@@ -218,7 +218,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Peter-Elkin-199x300.jpg" alt="Peter Elkin" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://medicine.buffalo.edu/faculty/profile.html?ubit=elkinp">Peter L. Elkin</a></h3>
@@ -227,7 +227,7 @@
     </div>
 
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/mark_jensen_head_shot_sm-e1486422487967-300x279.jpg" alt="Mark Jensen" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/mark-jensen-022a98103/">Mark Jensen</a></h3>
@@ -236,7 +236,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://www.clemson.edu/cecas/departments/automotive-engineering/images/people/faculty/rahul-rai-large.jpg" alt="Rahul Rai" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/rahul-rai-3790029/">Rahul Rai</a></h3>
@@ -244,7 +244,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Neil-Williams-292x300.jpg" alt="Neil E. Williams" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="http://www.acsu.buffalo.edu/~new/">Neil E. Williams</a></h3>
@@ -253,7 +253,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="http://jbona.org/images/profile.jpg" alt="Jonathan P. Bona" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//jbona.org/">Jonathan P. Bona</a></h3>
@@ -262,7 +262,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2019/01/69010A0A-205E-4A98-949F-B972F5C1B5EA-300x300.jpeg" alt="Brian Donohue" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/brian-donohue-72318973/">Brian Donohue</a></h3>
@@ -271,7 +271,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/unnamed.png" alt="Yongqun He" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhegroup.org%2F&amp;data=05%7C01%7Cmcnulty5%40buffalo.edu%7Cd5d2607d0be041f9820908db6600b2ee%7C96464a8af8ed40b199e25f6b50a20250%7C0%7C0%7C638215925417483551%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=D6T4itmL6hRvMtOH4rOBeEADaICaCkfEOtTlUU4zXFA%3D&amp;reserved=0">Yongqun ("Oliver") He</a></h3>
@@ -280,7 +280,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2019/12/UTM-Rasmus-Rosenberg-Larsen-by-Drew-Lusiuczok-300x200.jpg" alt="Rasmus Larsen" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="www.rasmusrosenberg.com">Rasmus Rosenberg Larsen</a></h3>
@@ -289,7 +289,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Malyuta-229x300.jpg" alt="Tatiana Malyuta" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/tatyana-malyuta-51a258a/">Tatiana Malyuta</a></h3>
@@ -297,7 +297,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Okada.png" alt="Mitsu Okada" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//abelard.flet.keio.ac.jp/person/mitsu/index.html">Mitsu Okada</a></h3>
@@ -306,7 +306,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Overton-240x300.jpg" alt="James Overton" width="200" height="200">
         <div class="grid-item-content">
             <h3>James Overton</h3>
@@ -315,7 +315,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Lowell-Vizenor-300x300.jpg" alt="Lowell Vizenor" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/lowellvizenor/">Lowell Vizenor</a></h3>
@@ -323,7 +323,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/03/headshot-small.png" alt="Christian Will" width="200" height="200">
         <div class="grid-item-content">
             <h3>Christian Will</h3>
@@ -331,7 +331,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://www.buffalo.edu/content/cas/philosophy/grad-study/grad_directory/jcr:content/par/image_1660011936_cop_1041367633.img.140.140.z.jpg/1649966745737.z.jpg" alt="Austin Liebers" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/austin-liebers-774a0b1b6/">Austin Liebers</a></h3>
@@ -340,7 +340,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/s200_hedi.levitch.jpg" alt="Mohamed Hedi Karray" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//scholar.google.com/citations?user=BGtnwfkAAAAJ">Mohamed Hedi Karray</a></h3>
@@ -349,7 +349,7 @@
         </div>
     </div>
 
-        <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/10/Screenshot-2023-10-16-at-12.01.57-AM.png" alt="Cameron More" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/cameron-more/">Cameron More</a></h3>
@@ -358,7 +358,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Werner-Ceusters-200x300.jpg" alt="Werner Ceusters" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="http://www.referent-tracking.com/RTU/ceusters_vita.html">Werner Ceusters</a></h3>
@@ -368,7 +368,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Thomas-Bittner-200x300.jpg" alt="Thomas Bittner" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/thomasbittner/">Thomas Bittner</a></h3>
@@ -377,7 +377,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Maureen-Donnelly-300x225.png" alt="Maureen Donnelly" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/donnelly.html">Maureen Donnelly</a></h3>
@@ -386,7 +386,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/David-Hershenov-216x300.jpg" alt="David Hershenov" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/hershenov.html">David B. Hershenov</a></h3>
@@ -396,7 +396,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://drive.google.com/file/d/1O3eqSaqoARr3OficZLmQZhewO1DQBIwP/view?usp=sharing" alt="Adam P. Taylor" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/adam-p-taylor-1653914a/">Adam P. Taylor </a></h3>
@@ -405,7 +405,7 @@
         </div>
     </div>
     
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/EMPhoto.png" alt="Eric Merrell" width="200" height="200">
         <div class="grid-item-content">
             <h3>Eric Merrell</h3>
@@ -414,7 +414,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ram-Ramesh-233x300.jpg" alt="Ram Ramesh" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/ram-ramesh-a764b296/">Ram Ramesh</a></h3>
@@ -423,7 +423,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2022/09/image001.jpg" alt="Ryan Riccucci" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/ryan-riccucci-491b211b8/">Ryan Riccucci</a></h3>
@@ -432,7 +432,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/09/CoxHeadshot-scaled.jpg" alt="Alexander P. Cox" width="200" height="200">
         <div class="grid-item-content">
             <h3>Alexander P. Cox</h3>
@@ -441,7 +441,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/05/prudhomme_retina_small.jpg" alt="Tim Prudhomme" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/tim-prudhomme/">Tim Prudhomme</a></h3>
@@ -450,7 +450,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Mathias-Brochhausen-300x300.jpg" alt="Mathias Brochhausen" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/mathiasbrochhausen/">Matthias Brochhausen</a></h3>
@@ -459,7 +459,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/FrancescoFuriniPhoto-236x300.png" alt="Francesco Furini" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/furini-francesco/">Francesco Furini</a></h3>
@@ -468,7 +468,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Amanda-Hicks-200x300.jpg" alt="Amanda Hicks" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/amanda-hicks-17b35966/">Amanda Hicks</a></h3>
@@ -476,7 +476,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/William-Hogan-264x300.jpg" alt="William Hogan" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/bill-hogan-9a7b59252/">Bill Hogan</a></h3>
@@ -485,7 +485,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2019/08/YuLin-300x270.png" alt="Asyiah Yu Lin" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/dryulin/">Asiyah Yu Lin</a></h3>
@@ -495,7 +495,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/William-Mandrick-300x284.jpg" alt="William Mandrick" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/william-mandrick-ph-d-29b88214/">William Mandrick</a></h3>
@@ -504,7 +504,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/J-Neil-Otte-2.3.17-225x300.jpg" alt="J. Niel Otte" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.jneilotte.com">J. Neil Otte</a></h3>
@@ -513,7 +513,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Selja-Seppala-200x300.jpg" alt="Selja Seppälä" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://seljaseppala.wordpress.com">Selja Seppälä</a></h3>
@@ -522,7 +522,7 @@
         </div>
     </div>
 
-    <div class="grid-item">
+<div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/20150518_112113-230x300.jpg" alt="Fernanda Farinelli" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://proffernandafarinelli.wordpress.com/">Fernanda Farinelli</a></h3>
@@ -530,4 +530,68 @@
             <p><em>Research in Data Management, Data Governance, and Ontologies</em></p>
         </div>
     </div>
+
+<div class="grid-item">
+        <img src="assets/photos/regina.png" alt="Regina Hurley" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://philpeople.org/profiles/regina-hurley">Regina Hurley</a></h3>
+            Visiting Professor <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Applied Ontology, Ethics, and Social Epistemology</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="assets/photos/jaron.jpg" alt="Jaron Cheung" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://philpeople.org/profiles/jaron-j-cheung">Jaron Cheung</a></h3>
+            Graduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Applied Ontology, Ethics, and Political Philosophy</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="assets/photos/federico.png" alt="Federico Donato" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/federico-donato-100b9424b/">Federico Donato</a></h3>
+            Graduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Biomedical Ontologies and the Ontology of Artifacts</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
+            Undergraduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Applied Ontology and Metaphysics</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="assets/photos/sebastian.png" alt="Sebastian Duesing" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://github.com/sebastianduesing">Sebastian Duesing</a></h3>
+            Ontology Developer <br> La Jolla Institute for Immunology
+            <p><em>Research in the Ontology for Biomedical Investigations</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="assets/photos/vajda.png" alt="Jonathan Vajda" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/jonathan-vajda-165720b0/">Jonathan Vajda</a></h3>
+            Ontology Engineer <br> Customs and Border Protection
+            <p><em>Research in Data Governance, Ontology DevOps, and Deontic Acts</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a></h3>
+            Graduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Quantum Ontologies, Occupation Ontologies, and ontologies of impact measurements</em></p>
+        </div>
+    </div>
+
 </div>
