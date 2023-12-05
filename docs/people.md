@@ -17,6 +17,7 @@
     }
 .grid-item-content {
         /* max-height: 300px; /* set to the height of the image */
+        line-height: 1.2;
         max-width: 200px;
         /* overflow: hidden; /* hides any content that exceeds the max-height */
         text-align: center; /* centers the text */
@@ -38,8 +39,8 @@
     <div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
         <div class="grid-item-content">
-            <h3><a href="https://johnbeverley.com">John Beverley</a></h3><br>
-            Co-Director NCOR
+            <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
+            Co-Director NCOR<br>
             <a href="https://www.buffalo.edu/cas/philosophy.html">Assistant Professor Department of Philosophy University at Buffalo</a>
             <p><em>Research in Applied Ontology, Logic, Metaphysics, and Social Epistemology</em></p>
         </div>
