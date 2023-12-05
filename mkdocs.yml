@@ -13,7 +13,6 @@ theme:
   palette:
     primary: black
   features:
-    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
   hide:
