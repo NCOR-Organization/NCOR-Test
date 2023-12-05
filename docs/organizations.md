@@ -16,7 +16,7 @@
             flex: 1;
         }
         img {
-            width: 200px;
+            width: 400px;
             height: auto;
         }
     </style>
