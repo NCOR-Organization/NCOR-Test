@@ -6,13 +6,14 @@
     <style>
         .container {
             display: flex;
-            justify-content: space-around; /* Distribute space evenly around items */
+            justify-content: center; /* Distribute space evenly around items */
             flex-wrap: wrap; /* Allow items to wrap to the next line */
             margin-bottom: 50px;
         }
         .image {
             flex-basis: 30%; /* Each image takes up roughly a third of the container width */
             text-align: center; /* Center the image within its container */
+            margin: 20px; /* Space around each image */
         }
         img {
             width: 100%; /* Image takes full width of its container */
