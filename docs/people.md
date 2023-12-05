@@ -398,7 +398,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://drive.google.com/file/d/1O3eqSaqoARr3OficZLmQZhewO1DQBIwP/view?usp=sharing" alt="Adam P. Taylor" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/taylor.png" alt="Adam P. Taylor" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/adam-p-taylor-1653914a/">Adam P. Taylor </a></h3>
             <a href="https://www.ndsu.edu/schoolofhumanities/faculty_and_staff/taylor/">Lecturer in Philosophy, North Dakota State Unversity</a>
