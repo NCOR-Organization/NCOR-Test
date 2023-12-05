@@ -46,7 +46,7 @@
         <a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">Division of Biomedical Ontology</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/dbo.png" alt="Division of Biomedical Ontology">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/dbi.png" alt="Division of Biomedical Ontology">
     </div>
 </div>
 
