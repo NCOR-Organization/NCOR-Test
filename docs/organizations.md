@@ -28,7 +28,7 @@
         <a href="https://cubrc.org/">Calspan University at Buffalo Research Center</a>
     </div>
     <div class="image">
-        <img src="docs/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
+        <img src="/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
     </div>
 </div>
 
@@ -37,7 +37,7 @@
         <a href="https://www.buffalo.edu/cmif.html">Center for Multisource Information Fusion</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="docs/assets/logos/cmif.png" alt="Center for Multisource Information Fusion">
+        <img src="/assets/logos/cmif.png" alt="Center for Multisource Information Fusion">
     </div>
 </div>
 
@@ -46,7 +46,7 @@
         <a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">Division of Biomedical Ontology</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="docs/assets/logos/dbo.png" alt="Division of Biomedical Ontology">
+        <img src="/assets/logos/dbo.png" alt="Division of Biomedical Ontology">
     </div>
 </div>
 
@@ -55,7 +55,7 @@
         <a href="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html">Department of Philosophy</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="docs/assets/logos/philosophy.png" alt="Department of Philosophy">
+        <img src="/assets/logos/philosophy.png" alt="Department of Philosophy">
     </div>
 </div>
 
@@ -64,7 +64,7 @@
         <a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Laboratory</a>
     </div>
     <div class="image">
-        <img src="docs/assets/logos/apl.png" alt="Johns Hopkins University Applied Physics Laboratory">
+        <img src="/assets/logos/apl.png" alt="Johns Hopkins University Applied Physics Laboratory">
     </div>
 </div>
 
@@ -73,7 +73,7 @@
         <a href="https://spec.industrialontologies.org/iof/">Industrial Ontologies Foundry</a>
     </div>
     <div class="image">
-        <img src="docs/assets/logos/iof.png" alt="Industrial Ontologies Foundry">
+        <img src="/assets/logos/iof.png" alt="Industrial Ontologies Foundry">
     </div>
 </div>
 
@@ -82,7 +82,7 @@
         <a href="https://www.kg-alliance.org/about/">Knowledge Graph Alliance</a>
     </div>
     <div class="image">
-        <img src="docs/assets/logos/kga.png" alt="Knowledge Graph Alliance">
+        <img src="/assets/logos/kga.png" alt="Knowledge Graph Alliance">
     </div>
 </div>
 
@@ -92,7 +92,7 @@
         <p>NCOR Brazil is the Brazilian chapter of NCOR, established in 2021.</p>
     </div>
     <div class="image">
-        <img src="docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
+        <img src="/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
     </div>
 </div>
 
@@ -101,7 +101,7 @@
         <a href="https://obofoundry.org/">The Open Biological and Biomedical Ontologies Foundry</a>
     </div>
     <div class="image">
-        <img src="docs/assets/logos/obo.png" alt="The Open Biological and Biomedical Ontologies Foundry">
+        <img src="/assets/logos/obo.png" alt="The Open Biological and Biomedical Ontologies Foundry">
     </div>
 </div>
 
@@ -110,7 +110,7 @@
         <a href="https://eil.mie.utoronto.ca/projects/tove-project/">Enterprise Integration Laboratory</a>, University of Toronto, Department of Mechanical and Industrial Engineering
     </div>
     <div class="image">
-        <img src="docs/assets/logos/tove.png" alt="Enterprise Integration Laboratory">
+        <img src="/assets/logos/tove.png" alt="Enterprise Integration Laboratory">
     </div>
 </div>
 
@@ -119,7 +119,7 @@
         <a href="https://www.buffalo.edu/ai-data-science.html">Institute for Artificial Intelligence and Data Science</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="docs/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
+        <img src="/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
     </div>
 </div>
 
