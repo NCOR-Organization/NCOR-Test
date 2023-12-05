@@ -18,7 +18,7 @@
 .grid-item-content {
         max-height: 300px; /* set to the height of the image */
         max-width: 200px;
-        overflow: hidden; /* hides any content that exceeds the max-height */
+        /* overflow: hidden; /* hides any content that exceeds the max-height */
         text-align: center; /* centers the text */
         padding: 10px 0; /* some vertical padding */
     }
