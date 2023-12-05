@@ -7,7 +7,7 @@
         .container {
             display: flex;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         .container:nth-child(even) {
             flex-direction: row-reverse;
