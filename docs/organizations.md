@@ -22,6 +22,9 @@
             width: 300px;
             height: auto;
         }
+        .smaller-image img {
+            width: 150px; /* Smaller size for specific images */
+        }
     </style>
 </head>
 <body>
@@ -31,7 +34,9 @@
         <a href="https://cubrc.org/">Calspan University at Buffalo Research Center</a>
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
+        <a href="https://cubrc.org/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
+        </a>
     </div>
 </div>
 
@@ -40,7 +45,9 @@
         <a href="https://www.buffalo.edu/cmif.html">Center for Multisource Information Fusion</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cmif.png" alt="Center for Multisource Information Fusion">
+        <a href="https://www.buffalo.edu/cmif.html">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cmif.png" alt="Center for Multisource Information Fusion">
+        </a>
     </div>
 </div>
 
@@ -49,7 +56,9 @@
         <a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">Division of Biomedical Ontology</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/dbi.png" alt="Division of Biomedical Ontology">
+        <a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/dbo.png" alt="Division of Biomedical Ontology">
+        </a>
     </div>
 </div>
 
@@ -58,7 +67,9 @@
         <a href="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html">Department of Philosophy</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/philosophy.png" alt="Department of Philosophy">
+        <a href="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/philosophy.png" alt="Department of Philosophy">
+        </a>
     </div>
 </div>
 
@@ -67,7 +78,9 @@
         <a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Laboratory</a>
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/apl.png" alt="Johns Hopkins University Applied Physics Laboratory">
+        <a href="https://www.jhuapl.edu/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/apl.png" alt="Johns Hopkins University Applied Physics Laboratory">
+        </a>
     </div>
 </div>
 
@@ -75,8 +88,10 @@
     <div class="text">
         <a href="https://spec.industrialontologies.org/iof/">Industrial Ontologies Foundry</a>
     </div>
-    <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iof.png" alt="Industrial Ontologies Foundry">
+    <div class="image smaller-image">
+        <a href="https://spec.industrialontologies.org/iof/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iof.png" alt="Industrial Ontologies Foundry">
+        </a>
     </div>
 </div>
 
@@ -85,7 +100,9 @@
         <a href="https://www.kg-alliance.org/about/">Knowledge Graph Alliance</a>
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kga.png" alt="Knowledge Graph Alliance">
+        <a href="https://www.kg-alliance.org/about/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kga.png" alt="Knowledge Graph Alliance">
+        </a>
     </div>
 </div>
 
@@ -95,7 +112,9 @@
         <p>NCOR Brazil is the Brazilian chapter of NCOR, established in 2021.</p>
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
+        <a href="https://ontology-br.com.br/about/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
+        </a>
     </div>
 </div>
 
@@ -103,8 +122,10 @@
     <div class="text">
         <a href="https://obofoundry.org/">The Open Biological and Biomedical Ontologies Foundry</a>
     </div>
-    <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/obo.png" alt="The Open Biological and Biomedical Ontologies Foundry">
+    <div class="image smaller-image">
+        <a href="https://obofoundry.org/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/obo.png" alt="The Open Biological and Biomedical Ontologies Foundry">
+        </a>
     </div>
 </div>
 
@@ -113,7 +134,9 @@
         <a href="https://eil.mie.utoronto.ca/projects/tove-project/">Enterprise Integration Laboratory</a>, University of Toronto, Department of Mechanical and Industrial Engineering
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tove.png" alt="Enterprise Integration Laboratory">
+        <a href="https://eil.mie.utoronto.ca/projects/tove-project/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tove.png" alt="Enterprise Integration Laboratory">
+        </a>
     </div>
 </div>
 
@@ -122,7 +145,9 @@
         <a href="https://www.buffalo.edu/ai-data-science.html">Institute for Artificial Intelligence and Data Science</a>, University at Buffalo
     </div>
     <div class="image">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
+        <a href="https://www.buffalo.edu/ai-data-science.html">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
+        </a>
     </div>
 </div>
 

@@ -31,9 +31,9 @@ nav:
     - Organizations: organizations.md
   - Training: 
     - NCOR Pathways: training.md
-    - Foundations: foundations.md
-    - Associate: associate.md
-    - Specialist: specialists.md
+      - Foundations: foundations.md
+      - Associate: associate.md
+      - Specialist: specialists.md
     - Bootcamps: bootcamps.md
   - Events: events.md
 

@@ -47,7 +47,7 @@
     <div class="grid-item">
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Allen Ruttenberg">
         <div class="grid-item-content">
-            <h3><a href="//creativecommons.org/about/program-areas/open-science">Allen Ruttenberg</a></h3>
+            <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
             <a href="//obofoundry.org/">Ontologist <br> Open Biological and Biomedical Ontology Foundry</a>
             <p><em>Research in Knowledge Representation, Computational Biology, Bioinformatics, Artificial Intelligence, Rich User interface, Parallel Computing</em></p>
         </div>
