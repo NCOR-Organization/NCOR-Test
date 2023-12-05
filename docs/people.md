@@ -16,7 +16,7 @@
         border-radius: 5px;
     }
 .grid-item-content {
-        max-height: 300px; /* set to the height of the image */
+        /* max-height: 300px; /* set to the height of the image */
         max-width: 200px;
         /* overflow: hidden; /* hides any content that exceeds the max-height */
         text-align: center; /* centers the text */
@@ -532,7 +532,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/regina.jpg" alt="Regina Hurley" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/regina.jpg" alt="Regina Hurley" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://philpeople.org/profiles/regina-hurley">Regina Hurley</a></h3>
             Visiting Professor <br> Department of Philosophy University at Buffalo
@@ -541,7 +541,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/jaron.jpg" alt="Jaron Cheung" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/jaron.jpg" alt="Jaron Cheung" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://philpeople.org/profiles/jaron-j-cheung">Jaron Cheung</a></h3>
             Graduate Student <br> Department of Philosophy University at Buffalo
@@ -550,7 +550,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/federico.png" alt="Federico Donato" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/federico.png" alt="Federico Donato" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/federico-donato-100b9424b/">Federico Donato</a></h3>
             Graduate Student <br> Department of Philosophy University at Buffalo
@@ -559,7 +559,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
             Undergraduate Student <br> Department of Philosophy University at Buffalo
@@ -568,7 +568,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/sebastian.png" alt="Sebastian Duesing" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/sebastian.png" alt="Sebastian Duesing" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://github.com/sebastianduesing">Sebastian Duesing</a></h3>
             Ontology Developer <br> La Jolla Institute for Immunology
@@ -577,7 +577,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/vajda.png" alt="Jonathan Vajda" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/vajda.png" alt="Jonathan Vajda" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/jonathan-vajda-165720b0/">Jonathan Vajda</a></h3>
             Ontology Engineer <br> Customs and Border Protection
@@ -586,7 +586,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://github.com/johnbeve/NCOR-Test/blob/478f69fb58b41fa2f2b2e218471fbefd0b5de742/docs/assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a></h3>
             Graduate Student <br> Department of Philosophy University at Buffalo
