@@ -25,7 +25,7 @@
 
 <div class="container">
     <div class="text">
-        <a href="https://cubrc.org/"><h>Calspan University at Buffalo Research Center</h></a>
+        <h><a href="https://cubrc.org/">Calspan University at Buffalo Research Center</a></h>
     </div>
     <div class="image">
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
