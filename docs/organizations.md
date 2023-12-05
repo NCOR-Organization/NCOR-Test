@@ -15,6 +15,9 @@
         .text, .image {
             flex: 1;
         }
+        .text {
+            font-size: 18px; 
+        }
         img {
             width: 300px;
             height: auto;
@@ -25,7 +28,7 @@
 
 <div class="container">
     <div class="text">
-        <h><a href="https://cubrc.org/">Calspan University at Buffalo Research Center</a></h>
+        <a href="https://cubrc.org/">Calspan University at Buffalo Research Center</a>
     </div>
     <div class="image">
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cubrc.png" alt="Calspan University at Buffalo Research Center">
