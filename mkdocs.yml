@@ -4,9 +4,6 @@ site_description: NCOR Homepage
 site_author: John Beverley
 edit_uri: '?query=root/NCOR-Test/docs/'
 
-extra_css: 
-  - stylesheets/extra.css
-
 theme:
   name: material
   logo: assets/ncor-logo.png
