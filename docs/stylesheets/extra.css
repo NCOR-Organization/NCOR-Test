@@ -5,12 +5,12 @@
   
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: 200px;
     background-color: black;
     color: white;
     text-align: center;
     border-radius: 6px;
-    padding: 5px;
+    padding: 2px;
     position: absolute;
     z-index: 1;
     bottom: 100%;
@@ -21,12 +21,3 @@
 .tooltip:hover .tooltiptext {
     visibility: visible;
   }
-
-body {
-    background-color: lightblue;
-}
-
-h1 {
-    color: red;
-    font-size: 28px;
-}
