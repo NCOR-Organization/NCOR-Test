@@ -31,7 +31,9 @@ nav:
   - Training: 
     - NCOR Pathways: 
       - Overview: training.md
-      - Foundations: foundations.md
+      - Foundations: 
+        - Overview: foundations.md
+        - RDF 101: rdf.md
       - Associate: associate.md
       - Specialist: specialists.md
     - Bootcamps: bootcamps.md
