@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/101 WG.png');
+  background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/101-WG.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
