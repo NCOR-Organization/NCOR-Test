@@ -587,6 +587,15 @@
     </div>
 
 <div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/JayBittner.png" alt="Jay Bittner" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/johnhfbittner/">Jay Bittner</a></h3>
+            Senior Ontologist, <br> BasisPath Inc.
+            <p><em>Research in applied ontology, semantic web technologies, and related areas for outer space, military, and other domains. Focused on foundry development, implementation and governance and principles to ensure data centricity.</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a></h3>
