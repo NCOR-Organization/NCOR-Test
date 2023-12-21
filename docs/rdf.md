@@ -10,7 +10,7 @@
 <h1>Resource Description Framework</h1>
 
 <p>The <a href="https://www.w3.org/TR/rdf11-concepts/">Resource Description Framework</a> (RDF) is a 
-<span class="tooltip">data model<span class="tooltiptext">An abstract syntax providing organizational structure to data, relationships across data, and how data relates to the world.</span></span> 
+<span class="tooltip">data model<span class="tooltiptext">Abstract syntax providing structure to data how it relates to the world.</span></span> 
 which - at its core - requires data be formatted as triples - subject, predicate, object.</p>
 
 </body>

@@ -1,4 +1,4 @@
-<p style="font-size:35px"><center><b>Open-Access Ontology Engineering Courses</b></center></p>
+<p style="font-size:35px"><center><b>Open-Access Ontology Engineering Resources</b></center></p>
 <div>
   <div>
     <p><b>Planned</b></p>
