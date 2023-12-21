@@ -1,10 +1,24 @@
 <style>
 body {
+  position: relative;
+  height: 100vh; 
+  margin: 0;
+  background: transparent;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/101-WG.png');
-  opacity: 0.5 ;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  opacity: 0.5;
+  z-index: -1;
 }
 </style>
 
