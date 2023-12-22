@@ -18,6 +18,8 @@ Resources are assigned identifiers, such as [Uniform Resource Identifiers](https
 URIs provide standards for naming across the web. For example, the following invoke widely used URI Schemes:  
 ```
 https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
+```
+```
 mailto:ncor@gmail.com
 ```
 The former starting with the URI scheme for hypertext transfer protocol secure and the second preceded by the scheme for email clients. Incidentally, for the curious, the link in the first example is to the official URI scheme registry. 
