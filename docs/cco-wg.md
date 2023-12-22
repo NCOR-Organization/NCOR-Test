@@ -20,17 +20,19 @@ body::before {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  opacity: 0.1; /* Lighten the background */
+  opacity: 0.05; /* Lighten the background */
   z-index: -1;
 }
 h1, h2, p, a, li {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Text shadow for better readability */
 }
-a {
-  color: #0056b3; /* A standard link color */
+.custom-color {
+  color: #0056b3; 
+  transition: color 0.3s; /* Smooth transition for color change */
 }
-a:hover {
-  color: #003580; /* Darker shade when hovering over links */
+/* Change color when hovering */
+.custom-color:hover {
+  color: #003580; /* Darker shade of the original color */
 }
 </style>
 </head>
@@ -38,11 +40,11 @@ a:hover {
 <h1>NCOR Common Core Ontologies Working Group</h1>
 
 <h2>Common Core Ontologies</h2>
-<p>CCO was developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate">Ron Rudnicki</a> and is comprised 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
+<p>CCO was developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate" class="custom-color">Ron Rudnicki</a> and is comprised 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
 
 <h2>NCOR CCO WG</h2>
 <p>The aim of the NCOR Common Core Ontologies Working Group (CCOWG) is to cultivate understanding of, provide contributions to, and promote development of the Common Ontology (CCO) suite. The group is comprised of academics, students, and professionals with a common interest in CCO-based domain ontology engineering.</p>
-<p>The CCOWG is chaired by <a href="https://www.linkedin.com/in/carterbeaubenson/">Carter Benson</a> and hold weekly hybrid meetings. Meetings regularly involve discussion of CCO-based projects, such as design pattern refinement, alignment with nearby open-source ontologies, and crafting criteria for what counts as a "mid-level" ontology or ontology suite. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
+<p>The CCOWG is chaired by <a href="https://www.linkedin.com/in/carterbeaubenson/" class="custom-color">Carter Benson</a> and hold weekly hybrid meetings. Meetings regularly involve discussion of CCO-based projects, such as design pattern refinement, alignment with nearby open-source ontologies, and crafting criteria for what counts as a "mid-level" ontology or ontology suite. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
 <p>If you would like to attend CCOWG meetings either in-person or remotely, contact Carter at: carterbe[at]buffalo.edu.</p>
 
 <h2>Minutes</h2>
@@ -50,12 +52,12 @@ a:hover {
 <h2>Common Core Ontology Resources</h2>
 <p>The Common Core Ontology suite is a widely-used open-source project with helpful documentation to guide development across its numerous domains and extensions. Resources include:</p>
 <ul>
-  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies">Common Core Ontologies Github Repository</a></li>
-  <li><a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_004.pdf">Overview of Common Core Ontologies</a></li>
-  <li><a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_003.pdf">Modeling Information with Common Core Ontologies</a></li>
-  <li><a href="https://philarchive.org/archive/COXTSD-2">An Overview of the Common Core Space Domain Ontologies</a></li>
-  <li><a href="https://philpapers.org/archive/MORJDO.pdf">Joint Doctrine Ontology</a></li>
-  <li><a href="https://www.youtube.com/watch?v=ai4YdLiCGNM">How to Handle Data about What Does Not Exist</a></li>
+  <li><a href="https://github.com/CommonCoreOntology/CommonCoreOntologies" class="custom-color">Common Core Ontologies Github Repository</a></li>
+  <li><a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_004.pdf" class="custom-color">Overview of Common Core Ontologies</a></li>
+  <li><a href="https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_003.pdf" class="custom-color">Modeling Information with Common Core Ontologies</a></li>
+  <li><a href="https://philarchive.org/archive/COXTSD-2" class="custom-color">An Overview of the Common Core Space Domain Ontologies</a></li>
+  <li><a href="https://philpapers.org/archive/MORJDO.pdf" class="custom-color">Joint Doctrine Ontology</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ai4YdLiCGNM" class="custom-color">How to Handle Data about What Does Not Exist</a></li>
 </ul>
 
 </body>
