@@ -24,12 +24,7 @@ body::before {
   z-index: -1;
 }
 h1, h2, p, a, li {
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for better readability */
-}
-.text-backdrop {
-  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white backdrop */
-  padding: 10px;
-  border-radius: 5px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Text shadow for better readability */
 }
 a {
   color: #0056b3; /* A standard link color */
@@ -40,8 +35,7 @@ a:hover {
 </style>
 </head>
 <body>
-<div class="text-backdrop">
-  <h1>NCOR Common Core Ontologies Working Group</h1>
+<h1>NCOR Common Core Ontologies Working Group</h1>
 
 <h2>Common Core Ontologies</h2>
 <p>CCO was developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate">Ron Rudnicki</a> and is comprised 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
