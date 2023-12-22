@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NCOR Common Core Ontologies Working Group</title>
@@ -10,9 +7,8 @@ body {
   height: 100vh; 
   margin: 0;
   background: transparent;
-  color: #000; /* Sets the text color to black */
+  color: #000; /* Black text */
 }
-
 body::before {
   content: "";
   position: absolute;
@@ -24,27 +20,28 @@ body::before {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  opacity: 0.1;
+  opacity: 0.1; /* Lighten the background */
   z-index: -1;
 }
-
-/* Additional styles for headings and links if necessary */
-h1, h2, h3, h4, h5, h6 {
-  color: #000; /* Dark color for headings */
+h1, h2, p, a, li {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for better readability */
 }
-
+.text-backdrop {
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white backdrop */
+  padding: 10px;
+  border-radius: 5px;
+}
 a {
   color: #0056b3; /* A standard link color */
 }
-
 a:hover {
   color: #003580; /* Darker shade when hovering over links */
 }
 </style>
 </head>
 <body>
-
-<h1>NCOR Common Core Ontologies Working Group</h1>
+<div class="text-backdrop">
+  <h1>NCOR Common Core Ontologies Working Group</h1>
 
 <h2>Common Core Ontologies</h2>
 <p>CCO was developed and promoted by <a href="https://scholar.google.com/citations?hl=en&user=JLM7L2EAAAAJ&view_op=list_works&sortby=pubdate">Ron Rudnicki</a> and is comprised 11 ontologies extending from Basic Formal Ontology that aim to represent and integrate taxonomies of generic classes and relations across all domains.</p>
