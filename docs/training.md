@@ -180,7 +180,7 @@
                     <p>Learn how to deploy intelligence analytics effectively using open-source software.</p>
                 </div>
                 <div class="card">
-                    <h3><a href="http://ncorwiki.buffalo.edu/index.php/Biomedical_Ontology_2016">Biomedical Ontology</a>/h3>
+                    <h3><a href="http://ncorwiki.buffalo.edu/index.php/Biomedical_Ontology_2016">Biomedical Ontology</a></h3>
                     <p>Dive into biomedical ontology development with open-source tools.</p>
                 </div>
             </div>
@@ -193,7 +193,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             let mySiema;
             try {
-                mySiema = new Siema();
+                mySiema = new Siema({loop: true});
             } catch (e) {
                 console.error("Siema failed to initialize: ", e);
             }
