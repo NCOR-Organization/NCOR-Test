@@ -25,7 +25,7 @@ nav:
     - Common Core Ontologies WG: cco-wg.md
     - Semantic Mappings WG: semantic-map-wg.md
     #- Industrial Ontologies WG: iof-wg.md
-    - Deontic Acts WG: d-acts-wg.md
+    - Document Acts WG: d-acts-wg.md
   - Affiliates: 
     - People: people.md
     - Organizations: organizations.md
@@ -40,7 +40,7 @@ nav:
     - Bootcamps: bootcamps.md
     - Partnerships: partnerships.md
     - Open-Access Resources: open-access-courses.md
-  - Events: events.md
+  - News: events.md
 
 extra:
   social:

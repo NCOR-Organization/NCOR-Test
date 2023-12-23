@@ -31,7 +31,7 @@
         main {
             padding: 20px;
         }
-        #intro, #intro2, #intro3, #open-source {
+        #intro, #open-source {
             background: #f9f9f9;
             padding: 20px;
             text-align: center;
@@ -108,7 +108,7 @@
     </header>
     <main>
         <section id="intro">
-            <h2>Foundational Certificates</h2>
+            <h2><b>Foundational Certificates</b></h2>
             <p>Explore ontology engineering concepts, technologies, and the semantic web stack that can facilitate their development.</p>
         </section>
         <section id="courses">
@@ -123,11 +123,11 @@
                 </article>
             </div>
         </section>
-        <section id="intro2">
-            <h2>Associate Certificates</h2>
+        <section id="intro">
+            <h2><b>Associate Certificates</b></h2>
             <p>Explore ontology engineering concepts, technologies, and the semantic web stack that can facilitate their development.</p>
         </section>
-        <section id="courses2">
+        <section id="courses">
             <div class="card-container">
                 <article class="card">
                     <h3>KES: Knowledge Extraction Specialist (Prerequisite: ONE)</h3>
@@ -147,11 +147,11 @@
                 </article>
             </div>
         </section>
-        <section id="intro3">
-            <h2>Specialist Certificates</h2>
+        <section id="intro">
+            <h2><b>Specialist Certificates</b></h2>
             <p>Master specialized ontology engineering topics, such as cyber security and referent-tracking.</p>
         </section>
-        <section id="courses3">
+        <section id="courses">
             <div class="card-container">
                 <article class="card">
                     <h3>SWS: Semantic Web Security Specialist (Prerequisites: KES, SWD)</h3>

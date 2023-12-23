@@ -10,7 +10,7 @@
 <h1>Resource Description Framework</h1>
 
 <p>The <a href="https://www.w3.org/TR/rdf11-concepts/">Resource Description Framework</a> (RDF) is a 
-<span class="tooltip">data model<span class="tooltiptext">Abstract syntax providing structure to data and how it relates to the world.</span></span> 
+<span class="tooltip"><b>data model</b><span class="tooltiptext">Abstract syntax providing structure to data and how it relates to the world.</span></span> 
 which - at its core - requires data be formatted as triples - subject, predicate, object, each of which is a <span class="tooltip"><b>resource</b><span class="tooltiptext">Anything that can be assigned an identifier, e.g., physical entities, information, numbers, etc.</span></span>. 
 
 Resources are assigned identifiers, such as <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">Uniform Resource Identifiers</a> (URIs) or <a href="https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier">Internationalized Resource Identifiers</a> (IRIs). URIs and IRIs share much in common with Uniform Resource Locators (URLs), which are designed to facilitate retrieval of information from a web location through a transfer protocol, the way your browser retrieves a web page through such protocols. Identifiers need not always refer to retrievable resources, however, which motivated the development of URIs and IRIs. 
