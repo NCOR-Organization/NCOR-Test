@@ -104,7 +104,7 @@
 </head>
 <body>
     <header>
-        <h1>NCOR Certificate Pathways</h1>
+        <center><h1>NCOR Certificate Pathways</h1></center>
     </header>
     <main>
         <section id="intro">
