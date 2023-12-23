@@ -193,7 +193,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             let mySiema;
             try {
-                mySiema = new Siema({loop: true});
+                mySiema = new Siema({loop: true, perPage: 2});
             } catch (e) {
                 console.error("Siema failed to initialize: ", e);
             }
