@@ -21,7 +21,7 @@
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
-            opacity: 0.05; /* Lighten the background */
+            opacity: 0.2; /* Lighten the background */
             z-index: -1;
         }
         header {
@@ -110,7 +110,7 @@
 </head>
 <body>
     <header>
-        <h1>NCOR Certificate Pathways</h1>
+        <h1 color="white" >NCOR Certificate Pathways</h1>
     </header>
     <main>
         <section id="intro">
