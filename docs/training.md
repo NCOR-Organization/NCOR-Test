@@ -24,12 +24,6 @@
             opacity: 0.2; /* Lighten the background */
             z-index: -1;
         }
-        header {
-            background: #232f3e;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
         header h1 {
             margin: 0;
             color: white;
@@ -110,7 +104,7 @@
 </head>
 <body>
     <header>
-        <h1 color="white" >NCOR Certificate Pathways</h1>
+        <h1>NCOR Certificate Pathways</h1>
     </header>
     <main>
         <section id="intro">
