@@ -10,6 +10,20 @@
             margin: 0;
             padding: 0;
         }
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/ncor-pathways.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            opacity: 0.05; /* Lighten the background */
+            z-index: -1;
+        }
         header {
             background: #232f3e;
             color: white;
@@ -18,6 +32,7 @@
         }
         header h1 {
             margin: 0;
+            color: white;
         }
         main {
             padding: 20px;
@@ -95,7 +110,6 @@
 </head>
 <body>
     <header>
-        <img src="assets/ncor-pathways.png" alt="NCOR Pathways" class="top-image">
         <h1>NCOR Certificate Pathways</h1>
     </header>
     <main>
