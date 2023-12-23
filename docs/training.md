@@ -21,7 +21,7 @@
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
-            opacity: 0.2; /* Lighten the background */
+            opacity: 0.1; /* Lighten the background */
             z-index: -1;
         }
         header h1 {
