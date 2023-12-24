@@ -107,20 +107,75 @@
         <center><h1>NCOR Certificate Pathways</h1></center>
     </header>
     <main>
-        <section id="intro">
+         <section id="foundational">
             <h2><b>Foundational Certificates</b></h2>
             <p>Explore ontology engineering concepts, technologies, and the semantic web stack that can facilitate their development.</p>
-        </section>
-        <section id="courses">
             <div class="card-container">
-                <article class="card">
-                    <h3>BFO: Basic Formal Ontology Practitioner</h3>
-                    <p>Learn the basics of BFO classes and relations, applications, and design patterns.</p>
-                </article>
-                <article class="card">
+            <article class="card dropdown">
+            <div class="dropdown-toggle">
+            <h3>BFO: Basic Formal Ontology Practitioner</h3>
+            <p>Learn the basics of BFO classes and relations, applications, and design patterns.</p>
+            </div>
+            <div class="dropdown-content">
+            <center><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/bfo-practitioner.png" width="25%" height="auto"></center>
+                <h4>Overview</h4>
+                    <p>The BFO Practitioner Certificate introduces students to the fundamentals of modeling data with the Basic Formal Ontology (BFO), a top-level architecture used by over 500 ontology and knowledge graph projects across the world. Students gain hands-on modeling experiences, working with subject-matter experts on active open-source projects leveraging BFO. Additionally, students will learn the philosophical and practical motivations for the distinctions drawn in BFO. This certificate course covers necessary building blocks for mastering differences and similarities across alternative top-level ontology architectures as well as for leveraging open-source ontologies to model specific domains, such as biomedicine, cyber security, climate change, and immigration, among many others. Throughout the course, students will learn to develop, curate, validate, and implement BFO in support of enterprise solutions.</p>
+                <h4>Duration</h4>
+                    <p>8 Hours</p>
+                <h4>Course Objectives</h4>
+                <p>In this course, you will develop competency with the following topics:</p>
+                <ul>
+                    <li>Top-Level Principles of BFO</li>
+                    <li>The BFO Hierarchy</li>
+                    <li>Formal Implementations of BFO</li>
+                    <li>Translating from Natural Language into BFO</li>
+                    <li>Implementing BFO-Conformant Design Patterns</li>
+                    <li>Extending BFO by Downward Population</li>
+                    <li>Validating Extensions of BFO</li>
+                </ul>
+                <h4>Intended Audience</h4>
+                <p>This course is intended for:</p>
+                <ul>
+                    <li>Individuals responsible for articulating the benefits of leveraging BFO to others</li>
+                    <li>Individuals interested in gaining hands-on training modeling with BFO</li>
+                    <li>Knowledge representation, Ontology or Data Architects/Engineers</li>
+                    <li>SysOps Administrators</li>
+                    <li>Existing users of BFO or extensions of BFO</li>
+                </ul>
+            </div>
+        </article>
+                <!-- ONE Course -->
+                <article class="card dropdown">
+                <div class="dropdown-toggle">
                     <h3>ONE: Ontology Engineer</h3>
-                    <p>Deep-dive into ontology engineering technologies.</p>
-                </article>
+                    <p>Participants will gain expertise with standard ontology engineering best practices, tools, and modeling strategies.</p>
+                </div>
+                <div class="dropdown-content">
+                    <center><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/ontology-engineer.png" width="25%" height="auto"></center>
+                    <h4>Overview</h4>
+                    <p>The Ontology Engineer Certificate introduces students to the fundamentals of ontology engineering, focused on the creation, updating, maintaining, and validating of ontologies and knowledge graphs in contemporary system architectures. This course provides students hands-on training to master the semantic web stack, equipping students with the competency needed to integrate and curate ontologies effectively. This certificate serves as a stepping stone for certificates covering specialized topics such as optimized information extraction, semantic web devOps best practices, description logic, and cybersecurity related to the semantic web.</p>
+                    <h4>Duration</h4>
+                    <p>12 Hours</p>
+                    <h4>Course Objectives</h4>
+                    <p>In this course, you will develop competency with the following topics:</p>
+                    <ul>
+                        <li>RDF, RDFS, and a zoo of W3C standards</li>
+                        <li>OWL2 Full, OWL2 DL Direct Semantics, and OWL Profiles</li>
+                        <li>Principles of Version Control using GitHub</li>
+                        <li>Open-Source CI/CD tools for ontology development, e.g., Protege, ROBOT, OnTop, GraphDB</li>
+                        <li>Extraction and Validation with the Semantic Web Stack, e.g., SPARQL, SHACL</li>
+                    </ul>
+                    <h4>Intended Audience</h4>
+                    <p>This course is intended for:</p>
+                    <ul>
+                        <li>Individuals using or interested in leveraging semantic web technologies in existing workflows</li>
+                        <li>Knowledge representation, Ontology or Data Architects/Engineers</li>
+                        <li>Existing users of BFO or extensions of BFO</li>
+                        <li>DevOps and SysOps Administrators</li>
+                        <li>Software Developers</li>
+                    </ul>
+                </div>
+            </article>
             </div>
         </section>
         <section id="intro">
@@ -207,3 +262,118 @@
     </script>
 </body>
 </html>
+
+
+
+
+        <section id="foundational">
+            <h2><b>Foundational Certificates</b></h2>
+            <p>Explore ontology engineering concepts, technologies, and the semantic web stack that can facilitate their development.</p>
+            <div class="card-container">
+                <!-- BFO Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>BFO: Basic Formal Ontology Practitioner</h3>
+                        <p>Learn the basics of BFO classes and relations, applications, and design patterns.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about BFO...</p>
+                    </div>
+                </article>
+                <!-- ONE Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>ONE: Ontology Engineer</h3>
+                        <p>Deep-dive into ontology engineering technologies.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about ONE...</p>
+                    </div>
+                </article>
+                <!-- Add more foundational courses as needed -->
+            </div>
+        </section>
+        <section id="associate">
+            <h2><b>Associate Certificates</b></h2>
+            <p>Dive deeper into ontology engineering and semantic technologies.</p>
+            <div class="card-container">
+                <!-- KES Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>KES: Knowledge Extraction Specialist (Prerequisite: ONE)</h3>
+                        <p>Deep-dive into knowledge extraction methodologies and tools.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about KES...</p>
+                    </div>
+                </article>
+                <!-- SWD Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>SWD: Semantic Web DevOps Engineer (Prerequisite: ONE)</h3>
+                        <p>Deep-dive into ontology engineering technologies.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about SWD...</p>
+                    </div>
+                </article>
+                <!-- TLO Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>TLO: Top-Level Ontology Engineer (Prerequisite: BFO)</h3>
+                        <p>Deep-dive into ontology engineering technologies.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about TLO...</p>
+                    </div>
+                </article>
+                <!-- MLO Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>MLO: Mid-Level Ontology Engineer (Prerequisite: BFO)</h3>
+                        <p>Deep-dive into ontology engineering technologies.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about MLO...</p>
+                    </div>
+                </article>
+                <!-- Add more associate courses as needed -->
+            </div>
+        </section>
+        <section id="specialist">
+            <h2><b>Specialist Certificates</b></h2>
+            <p>Master specialized ontology engineering topics, such as cyber security and referent-tracking.</p>
+            <div class="card-container">
+                <!-- SWS Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>SWS: Semantic Web Security Specialist (Prerequisites: KES, SWD)</h3>
+                        <p>Understand and apply security practices in semantic web applications.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about SWS...</p>
+                    </div>
+                </article>
+                <!-- RTE Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>RTE: Referent Tracking Specialist (Prerequisites: KES, MLO)</h3>
+                        <p>Deep-dive into ontology engineering technologies.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about RTE...</p>
+                    </div>
+                </article>
+                <!-- DLS Course -->
+                <article class="card dropdown">
+                    <div class="dropdown-toggle">
+                        <h3>DLS: Description Logic Specialist (Prerequisites: KES, SWD)</h3>
+                        <p>Deep-dive into ontology engineering technologies.</p>
+                    </div>
+                    <div class="dropdown-content">
+                        <p>More information about DLS...</p>
+                    </div>
+                </article>
+            </div>
+        </section>
+  
