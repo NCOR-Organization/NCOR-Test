@@ -45,8 +45,11 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAApbuYB2XIdgO4B_zTBN4RKTGW0OqEylxg&keywords=barry%20smith&origin=RICH_QUERY_SUGGESTION&position=0&searchId=4c7bf265-d8f5-4954-8829-71ac1ab78134&sid=6!x&spellCorrectionEnabled=false
     - icon: fontawesome/brands/github
-    - icon: fontawesome/brands/slack
+      link: https://github.com/BFO-ontology/BFO-2020
+    - icon: octicons/mail-16
+      link: mailto:johnbeve@buffalo.edu
 
 markdown_extensions:
     - attr_list
