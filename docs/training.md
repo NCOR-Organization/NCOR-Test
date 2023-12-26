@@ -87,7 +87,6 @@
             position: relative;
             top: 10px;  
             right: 50%;
-            transition: transform 0.3s ease-in-out;
         }
         .dropdown-active .arrow {
             transform: rotate(180deg) translateX(-50%);
