@@ -106,7 +106,7 @@
         .dropdown-active .content-block:nth-child(4) {
             animation-delay: 0.8s; 
         } 
-        h2 {
+        h2, #foundational, #associate, #specialist {
             text-align: center;
             font:bold;
         }
@@ -125,7 +125,7 @@
             <article class="card dropdown">
                 <div class="dropdown-toggle">
                     <div class="dropdown-header">
-                        <h3 class="dropdown-title">BFO: Basic Formal Ontology Practitioner</h3>
+                        <h3 class="dropdown-title">Basic Formal Ontology (BFO) Practitioner</h3>
                         <p>Learn the basics of BFO classes and relations, applications, and design patterns.</p>
                     </div>
                 <span class="arrow">&#9662;</span>
