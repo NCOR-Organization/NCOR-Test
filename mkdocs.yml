@@ -12,6 +12,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - toc.integrate
   hide:
     - toc
 
