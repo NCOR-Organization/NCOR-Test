@@ -85,8 +85,8 @@
         .arrow {
             display: block;
             position: relative;
-            bottom: -20px;  
-            left: 50%;
+            top: 10px;  
+            right: 50%;
             transition: transform 0.3s ease-in-out;
         }
         .dropdown-active .arrow {
@@ -107,6 +107,13 @@
         .dropdown-active .content-block:nth-child(4) {
             animation-delay: 0.8s; 
         } 
+        h2 {
+            text-align: center;
+            font:bold;
+        }
+        p {
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
     </style>
 </head>
 <body>
@@ -158,7 +165,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
         </div>
         <div class="card-container">
@@ -202,7 +208,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
         </div>
     </section>
@@ -248,7 +253,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
         </div>
         <div class="card-container">
@@ -293,7 +297,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
@@ -337,7 +340,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
                 <article class="card dropdown">
                 <div class="dropdown-toggle">
@@ -381,7 +383,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
         </div>
     </section>
@@ -429,7 +430,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
@@ -471,7 +471,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
@@ -513,7 +512,6 @@
                         </ul>
                     </div>
                 </div>
-            <span class="arrow">&#9662;</span>
             </article>
         </div>
     </section>

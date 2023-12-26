@@ -36,7 +36,7 @@
     visibility: visible;
     opacity: 1;
   }
-.siema {
+  .siema {
     margin: 20px 0;
     overflow: hidden;
     width: 100%;
@@ -52,9 +52,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-}
-.card-container .card:hover {
-  background-color: #00478e; /* Darker shade for hover */
+  width: 600px ;
 }
 .card-container .card {
   background-color: #00478e;
@@ -65,7 +63,7 @@
   position: relative;
   display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   text-align: center;
   border: 2px solid #00478e;
 }
