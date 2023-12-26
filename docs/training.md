@@ -267,7 +267,6 @@
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p></p>
-                        <h4>Duration</h4>
                     </div>
                     <div class="content-block">
                         <h4>Duration</h4>
@@ -309,7 +308,6 @@
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p>The Top-Level Ontology Engineer Certificate builds on skills developed in the Basic Formal Ontology Practitioner Certificate, expanding coverage to alternative top-level ontology classification choices, modeling patterns, and applications using real-world data and use cases. This certificate serves as a stepping stone for expert-level certification in topics such as referent tracking and cybersecurity related to the semantic web.</p>
-                        <h4>Duration</h4>
                     </div>
                     <div class="content-block">
                         <h4>Duration</h4>
