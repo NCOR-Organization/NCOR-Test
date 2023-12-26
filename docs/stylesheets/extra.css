@@ -36,3 +36,65 @@
     visibility: visible;
     opacity: 1;
   }
+.siema {
+    margin: 20px 0;
+    overflow: hidden;
+    width: 100%;
+}
+.siema .card {
+    min-width: 100%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card-container .card:hover {
+  background-color: #00478e; /* Darker shade for hover */
+}
+.card-container .card {
+  background-color: #00478e;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 2px solid #00478e;
+}
+.card-container .card::after {
+  content: "";
+  position: absolute;
+  top: 5px;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+  border: 2px solid white;
+  border-radius: 8px;
+  pointer-events: none;
+}
+.card h3 {
+  margin-top: 0;
+}
+.card h4 {
+  margin-top: 0;
+  text-align: center;
+}
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:focus {
+  outline: none;
+}

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Your Page Title</title>
+    <title>Resource Description Framework</title>
     <link rel="stylesheet" href="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/stylesheets/extra.css">
 </head>
 <body>
