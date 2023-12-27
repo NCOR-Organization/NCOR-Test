@@ -111,7 +111,7 @@
             font:bold;
         }
         p {
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
         }
         li {
             margin: 0;
