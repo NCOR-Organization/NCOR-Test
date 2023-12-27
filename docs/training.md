@@ -84,12 +84,12 @@
         }
         .arrow {
             display: block;
-            position: relative;
+            position: static;
             top: 10px;  
             right: 50%;
         }
         .dropdown-active .arrow {
-            transform: rotate(180deg) translateX(-50%);
+            transform: rotate(180deg) translateX(0%);
         }
         .dropdown-active .content-block {
             animation: fadeInRight 0.5s ease-out forwards;
@@ -124,24 +124,20 @@
         <div class="card-container">
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Basic Formal Ontology (BFO) Practitioner</h3>
                         <p>Learn the basics of BFO classes and relations, applications, and design patterns.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p>The BFO Practitioner Certificate introduces students to the fundamentals of modeling data with the Basic Formal Ontology (BFO), a top-level architecture used by over 500 ontology and knowledge graph projects across the world. Students gain hands-on modeling experiences, working with subject-matter experts on active open-source projects leveraging BFO. Additionally, students will learn the philosophical and practical motivations for the distinctions drawn in BFO. This certificate course covers necessary building blocks for mastering differences and similarities across alternative top-level ontology architectures as well as for leveraging open-source ontologies to model specific domains, such as biomedicine, cyber security, climate change, and immigration, among many others. Throughout the course, students will learn to develop, curate, validate, and implement BFO in support of enterprise solutions.</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li>Top-Level Principles of BFO</li>
                             <li>The BFO Hierarchy</li>
@@ -154,7 +150,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li>Individuals responsible for articulating the benefits of leveraging BFO to others</li>
                             <li>Individuals interested in gaining hands-on training modeling with BFO</li>
@@ -169,24 +164,20 @@
         <div class="card-container">
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Ontology Engineer (ONE)</h3>
                         <p>Develop expertise with standard ontology engineering best practices, tools, and modeling strategies.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p>The Ontology Engineer Certificate introduces students to the fundamentals of ontology engineering, focused on the creation, updating, maintaining, and validating of ontologies and knowledge graphs in contemporary system architectures. This course provides students hands-on training to master the semantic web stack, equipping students with the competency needed to integrate and curate ontologies effectively. This certificate serves as a stepping stone for certificates covering specialized topics such as optimized information extraction, semantic web devOps best practices, description logic, and cybersecurity related to the semantic web.</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li>RDF, RDFS, and a zoo of W3C standards</li>
                             <li>OWL2 Full, OWL2 DL Direct Semantics, and OWL Profiles</li>
@@ -197,7 +188,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li>Individuals using or interested in leveraging semantic web technologies in existing workflows</li>
                             <li>Knowledge representation, Ontology or Data Architects/Engineers</li>
@@ -216,24 +206,20 @@
         <div class="card-container">
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Knowledge Extraction Specialist (KES)</h3>
                         <p>Master RDF-based information extraction strategies and technologies.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p>The Knowledge Extraction Specialist Certificate builds on skills developed in the Ontology Engineering Certificate, emphasizing information extraction using technologies based on the Web Ontology Language (W3C) Resource Description Framework (RDF). Practitioners will explore the costs and benefits of storing in and retrieving information from graph database vs relational database technologies, and accordingly gain hands-on experience writing (with AI support) SPARQL and SQL queries. This course equips practitioners with the competence needed to make informed decisions about database architectures, gained by investigating real-world use cases. This certificate serves as a stepping stone for deep-dive certificates covering topics such as referent tracking and cybersecurity related to the semantic web.</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>16 Hours</p>
+                       <p>Duration: 16 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li>Writing SPARQL and SQL queries for specific use cases</li>
                             <li>Leveraging Large-Language Models for query writing</li>
@@ -243,7 +229,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li>Database managers</li>
                             <li>Knowledge representation, Ontology or Data Architects/Engineers</li>
@@ -257,24 +242,20 @@
         <div class="card-container">
              <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Semantic Web DevOps Engineer (SWD)</h3>
                         <p>Deep-dive into the intersection of ontology engineering and devOps best practices.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p></p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -285,7 +266,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -298,24 +278,20 @@
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Top-Level Ontology Engineer (TLO)</h3>
                         <p>Master the motivations for and applications of various top-level ontologies.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p>The Top-Level Ontology Engineer Certificate builds on skills developed in the Basic Formal Ontology Practitioner Certificate, expanding coverage to alternative top-level ontology classification choices, modeling patterns, and applications using real-world data and use cases. This certificate serves as a stepping stone for expert-level certification in topics such as referent tracking and cybersecurity related to the semantic web.</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li>Guiding principles and classifications of several top-level ontologies, e.g. BFO, DOLCE, YAMATO</li>
                             <li>Formal Implementations of top-level ontologies</li>
@@ -327,7 +303,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -340,24 +315,20 @@
             </article>
                 <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Mid-Level Ontology Engineer (MLO)</h3>
                         <p>Strengthen competence with the deployment of mid-level ontology structures, such as the Common Core Ontology suite.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p></p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li>Principles of the Common Core Ontologies suite</li>
                             <li>The CCO Hierarchy</li>
@@ -370,7 +341,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li>Individuals responsible for articulating the benefits of leveraging CCO to others</li>
                             <li>Individuals interested in gaining hands-on training modeling with CCO</li>
@@ -389,24 +359,20 @@
         <div class="card-container">
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Semantic Web Security Specialist (SWS)</h3>
                         <p>Deep-dive into unique cyber security challenges arising from the semantic web.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p></p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -417,7 +383,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -430,24 +395,20 @@
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Referent Tracking Specialist (RTE)</h3>
                         <p>Develop expertise in the use of ontologies to track information through complex networks.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p></p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -458,7 +419,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -471,24 +431,20 @@
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
+                    <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Description Logic Specialist (DLS)</h3>
                         <p>Gain expertise in the family of description logics underwriting ontology reasoners.</p>
                     </div>
-                <span class="arrow">&#9662;</span>
                 </div>
                 <div class="dropdown-content">
                     <div class="content-block">
                         <h4>Overview</h4>
                         <p></p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Duration</h4>
-                        <p>8 Hours</p>
+                       <p>Duration: 8 Hours</p>
                     </div>
                     <div class="content-block">
                         <h4>Course Objectives</h4>
-                        <p>In this course, you will develop competency with the following topics:</p>
                         <ul>
                             <li></li>
                             <li></li>
@@ -499,7 +455,6 @@
                     </div>
                     <div class="content-block">
                         <h4>Intended Audience</h4>
-                        <p>This course is intended for:</p>
                         <ul>
                             <li></li>
                             <li></li>

@@ -52,6 +52,7 @@ h1, h2, p, a, li {
 <h2>D-Acts Resources</h2>
 <p>D-Acts is an open-source based on work by Barry Smith on document acts; resources covering past, present, and future efforts can be found below:</p>
 <ul>
+  <li><a href="https://github.com/jonathanvajda/cco-d-acts/blob/main/use-cases.md" class="custom-color">D-Acts Use Cases</a></li>
   <li><a href="https://github.com/d-acts/d-acts/tree/master" class="custom-color">D-Acts Github Repository</a></li>
   <li><a href="https://ontology.buffalo.edu/document_ontology/Searle&deSoto.pdf" class="custom-color">Smith, B. (2008) Searle and de Soto: The New Ontology of the Social World.</a></li>
   <li><a href="https://philarchive.org/archive/COXTSD-2" class="custom-color">Smith, B. (2012) How to Do Things With Documents.</a></li>
