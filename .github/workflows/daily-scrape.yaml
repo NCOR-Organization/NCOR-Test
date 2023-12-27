@@ -1,23 +1,34 @@
-name: Daily Scrape
-
-on:
-  workflow_dispatch:  
-  schedule:
-    - cron: '0 0 * * *'  
-
 jobs:
-  scrape:
+  scrape-and-update:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Install dependencies
+
+    - name: Install Python dependencies
       run: |
         pip install requests beautifulsoup4 splinter webdriver_manager
-    - name: Run scraper
+
+    - name: Install Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+
+    - name: Install ChromeDriver
+      run: |
+        CHROMEDRIVER_VERSION=`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`
+        wget -N https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip -P ~/
+        unzip ~/chromedriver_linux64.zip -d ~/
+        sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
+        sudo chmod 0755 /usr/local/bin/chromedriver
+
+    - name: Run scraping script
       run: python scrape.py
     - name: Commit and push if changed
       run: |
