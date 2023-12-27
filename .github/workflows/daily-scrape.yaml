@@ -1,19 +1,27 @@
+name: Scrape and Update Data
+
+on:
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+  schedule:
+    - cron: '0 0 * * *'  # Scheduled to run at midnight UTC every day
+
 jobs:
   scrape-and-update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Specifies the runner environment
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v2  # Checks out your repository under $GITHUB_WORKSPACE
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v2  # Sets up Python environment
       with:
-        python-version: '3.x'
+        python-version: '3.x'  # Replace '3.x' with a specific version if needed
 
-    - name: Install Python dependencies
+    - name: Install dependencies
       run: |
         pip install requests beautifulsoup4 splinter webdriver_manager
+        # Add any other dependencies your script requires
 
     - name: Install Chrome
       run: |
@@ -28,12 +36,7 @@ jobs:
         sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
         sudo chmod 0755 /usr/local/bin/chromedriver
 
-    - name: Run scraping script
-      run: python scrape.py
-    - name: Commit and push if changed
-      run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git add data.json
-        git commit -m "Daily data update" || exit 0  # Exit 0 if no changes
-        git push
+    - name: Run scrape.py
+      run: python scrape.py  # Executes your script
+
+    # (Optional) Add steps for committing and pushing changes to the repository if needed
