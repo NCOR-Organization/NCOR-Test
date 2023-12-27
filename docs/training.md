@@ -113,6 +113,10 @@
         p {
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
         }
+        li {
+            margin: 0;
+            padding: 0.2em;
+        }
     </style>
 </head>
 <body>
