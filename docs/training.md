@@ -19,7 +19,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/ncor-pathways.png');
+            background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/ontology-training.png');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
