@@ -16,7 +16,7 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies
       run: |
-        pip install requests beautifulsoup4
+        pip install requests beautifulsoup4 splinter webdriver_manager
     - name: Run scraper
       run: python scrape.py
     - name: Commit and push if changed
