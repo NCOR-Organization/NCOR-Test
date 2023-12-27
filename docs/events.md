@@ -35,7 +35,7 @@
                     <th>Date</th>
                     <th>Title</th>
                     <th>Publication</th>
-                    <th>Link</th>
+                    <th>Link</th> 
                 </tr>
             </thead>
             <tbody id="table-body">
