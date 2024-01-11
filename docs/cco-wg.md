@@ -48,6 +48,7 @@ h1, h2, p, a, li {
 <p>If you would like to attend CCOWG meetings either in-person or remotely, contact Carter at: carterbe[at]buffalo.edu.</p>
 
 <h2>Minutes</h2>
+<a href="https://drive.google.com/file/d/1b1XX34WafCgCVQ4YB-PSrtyXeu836CaV/view?usp=drive_link">UB CCO Summaries</a>
 
 <h2>Common Core Ontology Resources</h2>
 <p>The Common Core Ontology suite is a widely-used open-source project with helpful documentation to guide development across its numerous domains and extensions. Resources include:</p>
