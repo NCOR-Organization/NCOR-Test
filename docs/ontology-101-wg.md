@@ -47,6 +47,12 @@ h1, h2, p, a, li {
 
 <h2>Minutes</h2>
 
+<p>Minutes are taken by Jisoo Seo, but anyone who is participating in 101WG is welcome to add or edit the minutes. Contact Jisoo Seo at jisooseo[@]buffalo.edu for more information or suggestions.</p>
+
+<p><b>1/10/24 Meeting</b></p>
+
+<p>Introductions and plans</p>
+
 <h2>Ontology 101 Resources</h2>
 
 <p>There are numerous ontology engineering resources leveraged in group meetings for the purposes of educating newcomers; some such resources include:</p>
