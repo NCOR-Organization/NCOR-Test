@@ -1,0 +1,12 @@
+# Work in Somewhere...
+
+Add more on AI  -- in connection with Knowledge Graphs, but also in connection with things like this (from Hoendorf):
+
+"For learning with smaller training sets -- either with unsupervised foundational dNNs that can be conditioned in transfer learning tasks with classical supervised dNNs -- ontologies can be used to provide annotation schemes for annotators. These schemes have an ontological foundation that allows the annotators to supply homogenous and correct outputs for a given input."
+
+More generally, ontologically regimented data helps you avoid some of the problems faced when one is looking for sample data for ML
+
+Make more of ISO 21838
+Part 1 documents the strategy to foster interoperability across wide spectrum knowledge sources
+
+You should introduce some less technical scenarios eg how to convince Management of the need for / benefits from ontologies
