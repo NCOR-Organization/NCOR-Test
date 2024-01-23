@@ -57,6 +57,7 @@ h1, h2, p, a, li {
 <a href="https://drive.google.com/file/d/1eL4QtZ5SwhwJGkXo8GUXU-kJhd_ln1Am/view?usp=drive_link">UB CCO Summary - November 27</a><br>
 <a href="https://drive.google.com/file/d/1zuchdJBk1OPRda_MB0bHzgfANYKysmvh/view?usp=drive_link">UB CCO Summary - December 04</a><br>
 <a href="https://drive.google.com/file/d/111NvEd2QSe9NDGwBtw66lCAYBNwvjDW6/view?usp=drive_link">UB CCO Summary - December 18</a><br>
+<a href="https://drive.google.com/file/d/1TMxdbv6OVXgzgCLqcY2gN9sf6ghL4F2n/view?usp=drive_link">UB CCO Summary - January 18</a><br> 
 
 <h2>Common Core Ontology Resources</h2>
 <p>The Common Core Ontology suite is a widely-used open-source project with helpful documentation to guide development across its numerous domains and extensions. Resources include:</p>
