@@ -47,6 +47,8 @@ h1, h2, p, a, li {
 
 <h2>Minutes</h2>
 
+<a href="https://drive.google.com/file/d/1fd6mxeiYT3M1oWok7X-wfNCfe22TMn28/view?usp=drive_link"> 101 Working Group Minutes - January 24</a>
+
 <h2>Ontology 101 Resources</h2>
 
 <p>There are numerous ontology engineering resources leveraged in group meetings for the purposes of educating newcomers; some such resources include:</p>
