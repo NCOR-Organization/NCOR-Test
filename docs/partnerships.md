@@ -1,3 +1,0 @@
-# Partnerships
-
-University at Buffalo
