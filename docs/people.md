@@ -604,4 +604,13 @@
         </div>
     </div>
 
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/billig.png" alt="Josh Billig" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="">Josh Billig</a></h3>
+            Undergraduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Cyber Security and Intelligence ontologies</em></p>
+        </div>
+    </div>
+
 </div>
