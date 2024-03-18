@@ -54,6 +54,8 @@ h1, h2, p, a, li {
   <li><a href="https://drive.google.com/file/d/1itBq7msSlfZ2VnlZP6bF1JjTChZb_t3M/view?usp=sharing"> February 14</a></li>
   <li><a href="https://drive.google.com/file/d/1y8s9qNvmNkJQbC6w-wRVcKCi_uTiPgux/view?usp=sharing"> February 21</a></li>
   <li><a href="https://drive.google.com/file/d/1ljyy47m81U7PdoC0jkKRIGet2f1Be7Bq/view?usp=sharing"> February 28</a></li>
+  <li><a href="https://drive.google.com/file/d/1FUXkzcDtFPYNCzvgi1iuZQZ3zmrQf_6S/view?usp=sharing"> March 6</a></li>
+  <li><a href="https://drive.google.com/file/d/1Tt9qoG0m4sEv9FX2XGpY1r9PGRhxPUmY/view?usp=sharing"> March 13</a></li>
 </ul>
 
 <h2>Ontology 101 Resources</h2>
