@@ -613,4 +613,13 @@
         </div>
     </div>
 
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/billig.png" alt="Damayanthi Jesudas" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="">Damayanthi Jesudas</a></h3>
+            Senior Ontologist <br> National Center for Ontological Research
+            <p><em>Research in knowledge graphs, ontologies, and natural language processing</em></p>
+        </div>
+    </div>
+
 </div>
