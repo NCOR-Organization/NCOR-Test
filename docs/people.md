@@ -599,7 +599,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a></h3>
-            Graduate Student <br> Department of Philosophy University at Buffalo
+            Graduate Student <br> Department of Philosophy, University at Buffalo
             <p><em>Research in Quantum Ontologies, Occupation Ontologies, and ontologies of impact measurements</em></p>
         </div>
     </div>
@@ -607,8 +607,8 @@
 <div class="grid-item">
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/billig.png" alt="Josh Billig" width="200" height="200">
         <div class="grid-item-content">
-            <h3><a href="">Josh Billig</a></h3>
-            Undergraduate Student <br> Department of Philosophy University at Buffalo
+            <h3><a href="https://www.linkedin.com/in/josh-billig-0680041b8/">Josh Billig</a></h3>
+            Undergraduate Student <br> Department of Philosophy, University at Buffalo
             <p><em>Research in Cyber Security and Intelligence ontologies</em></p>
         </div>
     </div>
@@ -616,9 +616,27 @@
 <div class="grid-item">
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/damayanthi.jpeg" alt="Damayanthi Jesudas" width="200" height="200">
         <div class="grid-item-content">
-            <h3><a href="">Damayanthi Jesudas</a></h3>
-            Senior Ontologist <br> National Center for Ontological Research
+            <h3><a href="https://www.researchgate.net/scientific-contributions/B-Damayanthi-Jesudas-2123238395">Damayanthi Jesudas</a></h3>
+            Research Affiliate <br> National Center for Ontological Research
             <p><em>Research in knowledge graphs, ontologies, and natural language processing</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/mclellan.jpeg" alt="Damayanthi Jesudas" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://kadsci.com/about/">Jon McLellan</a></h3>
+            Senior Ontologist <br> KadSci
+            <p><em>Research in ontologies, generative and causal AI</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/franda.jpeg" alt="Francesco Franda" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.unine.ch/philo/en/home/collaborateurs-trices/francesco-franda-post-doc.html">Francesco Franda </a></h3>
+            SNSF postdoctoral researcher <br> University of Neuchâtel, Switzerland
+            <p><em>Social Ontology, Metaphysics, Philosophy of the Social Sciences, and Applied Ontology</em></p>
         </div>
     </div>
 
