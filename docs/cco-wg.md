@@ -63,8 +63,6 @@ h1, h2, p, a, li {
 <a href="https://drive.google.com/file/d/1pgt1yLtNj3vQX3YUmj7lx1jIG2ztLzal/view?usp=drive_link">NCOR CCO Summary - February 8</a><br>
 <a href="https://drive.google.com/file/d/1HedWv_sLIxUn92d2cGkUpmXUkig2TYue/view?usp=drive_link">NCOR CCO Summary - February 15</a><br>
 <a href="https://drive.google.com/file/d/1_dQZAb2s0lD8AYkxtlk_8ttIv7iDLy1-/view?usp=drive_link">NCOR CCO Summary - February 22</a><br>
-<a href="https://drive.google.com/file/d/1T_mR7E2iJtcsXGkRfq8Iye-h_tGiSE3q/view?usp=drive_link">NCOR CCO Summary - March 4</a><br>
-<a href="https://drive.google.com/file/d/1T_mR7E2iJtcsXGkRfq8Iye-h_tGiSE3q/view?usp=drive_link">NCOR CCO Summary - March 11</a><br>
 
 <h2>Common Core Ontology Resources</h2>
 <p>The Common Core Ontology suite is a widely-used open-source project with helpful documentation to guide development across its numerous domains and extensions. Resources include:</p>
