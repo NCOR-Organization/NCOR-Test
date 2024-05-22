@@ -41,6 +41,7 @@ def process_entries(entries, base_url=""):
     return data
 
 def scrape():
+    # Use ChromeDriverManager to install the correct ChromeDriver
     executable_path = {'executable_path': ChromeDriverManager().install()}
     browser = Browser('chrome', **executable_path, headless=True)
 

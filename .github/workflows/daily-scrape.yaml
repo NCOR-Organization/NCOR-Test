@@ -1,42 +1,46 @@
-name: Scrape and Update Data
+name: Scrape Data
 
 on:
-  workflow_dispatch:  # Allows manual trigger from GitHub UI
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *'  # Scheduled to run at midnight UTC every day
+    - cron: '0 0 * * *' # This will run the action daily at midnight
 
 jobs:
-  scrape-and-update:
-    runs-on: ubuntu-latest  # Specifies the runner environment
+  scrape:
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2  # Checks out your repository under $GITHUB_WORKSPACE
+      uses: actions/checkout@v2
 
-    - name: Set up Python 3.x
-      uses: actions/setup-python@v2  # Sets up Python environment
+    - name: Set up Python
+      uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Replace '3.x' with a specific version if needed
+        python-version: '3.12'
 
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install requests beautifulsoup4 splinter webdriver_manager
-        # Add any other dependencies your script requires
 
-    - name: Install Chrome
+    - name: Install Google Chrome
       run: |
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
         sudo apt-get update
         sudo apt-get install -y google-chrome-stable
 
-    - name: Install ChromeDriver
+    - name: Run scraping script
+      run: python scrape.py
+
+    - name: Commit and push data
       run: |
-        CHROMEDRIVER_VERSION=`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`
-        wget -N https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip -P ~/
-        unzip ~/chromedriver_linux64.zip -d ~/
-        sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
-        sudo chmod 0755 /usr/local/bin/chromedriver
-
-    - name: Run scrape.py
-      run: python scrape.py  # Executes your script
-
-    # (Optional) Add steps for committing and pushing changes to the repository if needed
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add docs/data/data.json
+        git commit -m "Update scraped data"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
