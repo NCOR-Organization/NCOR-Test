@@ -26,7 +26,8 @@ nav:
     - Common Core Ontologies WG: cco-wg.md
     - Semantic Mappings WG: semantic-map-wg.md
     #- Industrial Ontologies WG: iof-wg.md
-    - Document Acts WG: d-acts-wg.md
+    #- Document Acts WG: d-acts-wg.md
+    - Semantic Stack WG: semantic-stack-wg.md
   - Affiliates: 
     - People: people.md
     - Organizations: organizations.md

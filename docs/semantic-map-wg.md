@@ -45,9 +45,7 @@ The NCOR Semantic Mapping Working Group (SMWG) is comprised of academics, resear
 
 <p>The SMWG is chaired by <a href="https://www.linkedin.com/in/tim-prudhomme/" class="custom-color">Tim Prudhomme</a>. Meetings regularly involve discussion of challenges associated with semantic mappings, both conceptual and technical. Please see the minutes from past meetings below for a better understanding of topics covered. Meetings are held weekly.</p>
 
-<p>If you would like to attend SMWG meetings either in-person or remotely, contact Giacomo De Colle at: gdecolle[@]buffalo.edu.</p>
-
-<h2>Minutes</h2>
+<p>If you would like to attend SMWG meetings either in-person or remotely, contact <a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a> at: gdecolle[@]buffalo.edu.</p>
 
 <h2>Semantic Mapping Resources</h2>
 
