@@ -16,7 +16,7 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/NCOR_image.png');
+  background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/logos/office-hours.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

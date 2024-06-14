@@ -16,7 +16,7 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/command-d-acts.png');
+  background-image: url('https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/logos/semantic-web-stack.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
