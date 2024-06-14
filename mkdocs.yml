@@ -39,9 +39,9 @@ nav:
         - Overview: foundations.md
       - Associate: associate.md
       - Specialist: specialists.md
-    - Bootcamps: bootcamps.md
+    #- Bootcamps: bootcamps.md
     - Open-Access Resources: open-access-courses.md
-  - News: events.md
+  #- News: events.md
 
 extra:
   social:
