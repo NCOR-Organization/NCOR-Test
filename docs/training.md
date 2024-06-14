@@ -249,36 +249,36 @@
                     <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Semantic Web DevOps Engineer (SWD)</h3>
-                        <p>Deep-dive into the intersection of ontology engineering and devOps best practices.</p>
-                    </div>
-                </div>
-                <div class="dropdown-content">
-                    <div class="content-block">
-                        <h4>Overview</h4>
-                        <p></p>
-                       <p>Duration: 8 Hours</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Course Objectives</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                    <div class="content-block">
-                        <h4>Intended Audience</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                </div>
+                        <p>Deep-dive into the intersection of ontology engineering and DevOps best practices.</p>
+                        </div>
+                        </div>
+                        <div class="dropdown-content">
+                            <div class="content-block">
+                                <h4>Overview</h4>
+                                <p>The SWD Certificate provides comprehensive training at the intersection of ontology engineering and DevOps best practices. Participants will learn how to efficiently manage and deploy semantic web technologies in a DevOps environment, integrating continuous integration/continuous deployment (CI/CD) pipelines with ontology development workflows. The course covers automation tools, containerization, orchestration, and monitoring techniques specific to semantic web applications. Through hands-on labs and real-world examples, students will gain practical experience in optimizing the development, deployment, and maintenance of semantic web solutions.</p>
+                                <p>Duration: 8 Hours</p>
+                            </div>
+                            <div class="content-block">
+                                <h4>Course Objectives</h4>
+                                <ul>
+                                    <li>Understanding the principles of DevOps in the context of semantic web technologies</li>
+                                    <li>Implementing CI/CD pipelines for ontology development</li>
+                                    <li>Utilizing automation tools for semantic web application deployment</li>
+                                    <li>Applying containerization and orchestration techniques</li>
+                                    <li>Monitoring and maintaining semantic web applications</li>
+                                </ul>
+                            </div>
+                            <div class="content-block">
+                                <h4>Intended Audience</h4>
+                                <ul>
+                                    <li>DevOps engineers interested in semantic web technologies</li>
+                                    <li>Ontology engineers and developers</li>
+                                    <li>IT professionals responsible for deploying and maintaining semantic web applications</li>
+                                    <li>Software developers looking to integrate semantic technologies with DevOps practices</li>
+                                    <li>Researchers and practitioners in the field of knowledge representation and DevOps</li>
+                                </ul>
+                            </div>
+                        </div>
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
@@ -308,11 +308,11 @@
                     <div class="content-block">
                         <h4>Intended Audience</h4>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Individuals responsible for articulating the benefits of leveraging BFO to others</li>
+                            <li>Individuals interested in gaining hands-on training modeling with BFO</li>
+                            <li>Knowledge representation, Ontology or Data Architects/Engineers</li>
+                            <li>SysOps Administrators</li>
+                            <li>Existing users of BFO or extensions of BFO</li>
                         </ul>
                     </div>
                 </div>
@@ -367,71 +367,71 @@
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Semantic Web Security Specialist (SWS)</h3>
                         <p>Deep-dive into unique cyber security challenges arising from the semantic web.</p>
-                    </div>
-                </div>
-                <div class="dropdown-content">
-                    <div class="content-block">
-                        <h4>Overview</h4>
-                        <p></p>
-                       <p>Duration: 8 Hours</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Course Objectives</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                    <div class="content-block">
-                        <h4>Intended Audience</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                </div>
+                        </div>
+                        </div>
+                        <div class="dropdown-content">
+                            <div class="content-block">
+                                <h4>Overview</h4>
+                                <p>The SWS Certificate equips participants with the knowledge and skills to address the unique cyber security challenges presented by the semantic web. This course delves into the intricacies of securing semantic web technologies, including RDF, OWL, and SPARQL, and explores potential vulnerabilities and threat vectors associated with these technologies. Students will learn best practices for securing semantic data, implementing security protocols, and ensuring data integrity and confidentiality in semantic web applications. The course includes hands-on labs and real-world scenarios to provide practical experience in defending against cyber threats in a semantic web context.</p>
+                                <p>Duration: 8 Hours</p>
+                            </div>
+                            <div class="content-block">
+                                <h4>Course Objectives</h4>
+                                <ul>
+                                    <li>Understanding the security challenges of the semantic web</li>
+                                    <li>Securing RDF, OWL, and SPARQL technologies</li>
+                                    <li>Identifying and mitigating vulnerabilities in semantic web applications</li>
+                                    <li>Implementing security protocols for semantic data</li>
+                                    <li>Ensuring data integrity and confidentiality in semantic web environments</li>
+                                </ul>
+                            </div>
+                            <div class="content-block">
+                                <h4>Intended Audience</h4>
+                                <ul>
+                                    <li>Cyber security professionals focusing on emerging technologies</li>
+                                    <li>Semantic web developers and engineers</li>
+                                    <li>Data protection officers and privacy experts</li>
+                                    <li>IT professionals interested in semantic web security</li>
+                                    <li>Researchers and academics in cyber security and semantic technologies</li>
+                                </ul>
+                            </div>
+                        </div>
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
                     <span class="arrow">&#9662;</span>
                     <div class="dropdown-header">
-                        <h3 class="dropdown-title">Referent Tracking Specialist (RTE)</h3>
+                       <h3 class="dropdown-title">Referent Tracking Specialist (RTE)</h3>
                         <p>Develop expertise in the use of ontologies to track information through complex networks.</p>
-                    </div>
-                </div>
-                <div class="dropdown-content">
-                    <div class="content-block">
-                        <h4>Overview</h4>
-                        <p></p>
-                       <p>Duration: 8 Hours</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Course Objectives</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                    <div class="content-block">
-                        <h4>Intended Audience</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                </div>
+                        </div>
+                        </div>
+                        <div class="dropdown-content">
+                            <div class="content-block">
+                                <h4>Overview</h4>
+                                <p>The RTE Certificate introduces participants to the fundamentals of referent tracking, a methodology used to maintain precise records of entities and their interactions across complex networks using ontologies. Students will learn how to apply referent tracking principles to ensure accurate and consistent data representation, crucial for high-stakes fields like healthcare, defense, and enterprise information systems. The course covers the design and implementation of referent tracking systems, the integration of these systems with existing ontological frameworks, and the use of referent tracking to enhance data quality and interoperability. Participants will engage in practical exercises and case studies to develop, manage, and optimize referent tracking systems in real-world scenarios.</p>
+                                <p>Duration: 8 Hours</p>
+                            </div>
+                            <div class="content-block">
+                                <h4>Course Objectives</h4>
+                                <ul>
+                                    <li>Understanding the principles of referent tracking</li>
+                                    <li>Designing and implementing referent tracking systems</li>
+                                    <li>Integrating referent tracking with existing ontological frameworks</li>
+                                    <li>Applying referent tracking to enhance data quality and interoperability</li>
+                                    <li>Hands-on experience with referent tracking tools and methodologies</li>
+                                </ul>
+                            </div>
+                            <div class="content-block">
+                                <h4>Intended Audience</h4>
+                                <ul>
+                                    <li>Data scientists and information systems professionals</li>
+                                    <li>Ontology and knowledge graph developers</li>
+                                    <li>Healthcare informatics specialists</li>
+                                    <li>Defense and intelligence analysts</li>
+                                    <li>Anyone interested in improving data accuracy and interoperability</li>
+                                </ul>
+                            </div>
+                        </div>
             </article>
             <article class="card dropdown">
                 <div class="dropdown-toggle">
@@ -439,35 +439,37 @@
                     <div class="dropdown-header">
                         <h3 class="dropdown-title">Description Logic Specialist (DLS)</h3>
                         <p>Gain expertise in the family of description logics underwriting ontology reasoners.</p>
-                    </div>
-                </div>
-                <div class="dropdown-content">
-                    <div class="content-block">
-                        <h4>Overview</h4>
-                        <p></p>
-                       <p>Duration: 8 Hours</p>
-                    </div>
-                    <div class="content-block">
-                        <h4>Course Objectives</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                    <div class="content-block">
-                        <h4>Intended Audience</h4>
-                        <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                    </div>
-                </div>
+                        </div>
+                        </div>
+                        <div class="dropdown-content">
+                            <div class="content-block">
+                                <h4>Overview</h4>
+                                <p>The DLS Certificate provides an in-depth understanding of Description Logics (DL), which are the formal foundations of ontology reasoners. Participants will explore the theoretical aspects of DL, practical applications, and the use of DL in various ontology-based systems. The course covers the syntax and semantics of DL, reasoning techniques, and how DL can be used to model complex relationships in different domains. Students will engage with real-world case studies and participate in hands-on sessions to build, validate, and deploy DL-based ontologies. This certificate is essential for those looking to leverage DL for advanced ontology development and reasoning tasks across sectors such as healthcare, cybersecurity, and information management.</p>
+                                <p>Duration: 8 Hours</p>
+                            </div>
+                            <div class="content-block">
+                                <h4>Course Objectives</h4>
+                                <ul>
+                                    <li>Understanding the fundamentals of Description Logics</li>
+                                    <li>Exploring the syntax and semantics of various DLs</li>
+                                    <li>Learning about reasoning techniques and algorithms in DL</li>
+                                    <li>Applying DL to model complex relationships in ontologies</li>
+                                    <li>Using DL-based tools and reasoners for ontology validation and inference</li>
+                                    <li>Developing skills to extend and customize DL ontologies</li>
+                                    <li>Case studies and hands-on experience with DL applications</li>
+                                </ul>
+                            </div>
+                            <div class="content-block">
+                                <h4>Intended Audience</h4>
+                                <ul>
+                                    <li>Ontology engineers and developers seeking advanced knowledge in DL</li>
+                                    <li>Researchers and practitioners in the field of knowledge representation</li>
+                                    <li>Information systems professionals interested in ontology reasoning</li>
+                                    <li>Healthcare informatics specialists working with ontology-based systems</li>
+                                    <li>Individuals interested in the theoretical and practical applications of DL</li>
+                                </ul>
+                            </div>
+                        </div>
             </article>
         </div>
     </section>
