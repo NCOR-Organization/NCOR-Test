@@ -37,8 +37,8 @@ jobs:
 
     - name: Commit and push data
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "johnbeve.com"
+        git config --global user.name "John Beverley"
         git add docs/data/data.json
         git commit -m "Update scraped data"
         git push
