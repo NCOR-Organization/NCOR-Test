@@ -636,7 +636,16 @@
         <div class="grid-item-content">
             <h3><a href="https://www.unine.ch/philo/en/home/collaborateurs-trices/francesco-franda-post-doc.html">Francesco Franda </a></h3>
             SNSF postdoctoral researcher <br> University of Neuchâtel, Switzerland
-            <p><em>Social Ontology, Metaphysics, Philosophy of the Social Sciences, and Applied Ontology</em></p>
+            <p><em>Research in Social Ontology, Metaphysics, Philosophy of the Social Sciences, and Applied Ontology</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/daniel.jpeg" alt="Daniel Novotny" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.unine.ch/philo/en/home/collaborateurs-trices/francesco-franda-post-doc.html">Daniel Novotny </a></h3>
+            Assistant Professor <br> University of South Bohemia
+            <p><em>Research in Applied Philosophy (Ontology, Ethics) and History of Philosophy</em></p>
         </div>
     </div>
 
