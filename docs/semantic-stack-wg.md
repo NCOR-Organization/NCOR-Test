@@ -47,8 +47,6 @@ h1, h2, p, a, li {
 <p>The SSWG is chaired by <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a>. Meetings regularly involve discussion of semantic web-focused projects, such modeling ambiguities or complex relationships using OWL. Please see the minutes from past meetings below for a better understanding of topics covered.</p>
 <p>If you would like to attend SSWG meetings either in-person or remotely, contact John at: johnbeve[@]buffalo.edu.</p>
 
-<h2>Minutes</h2>
-
 <h2>Semantic Web Resources</h2>
 <p>D-Acts is an open-source based on work by Barry Smith on document acts; resources covering past, present, and future efforts can be found below:</p>
 <ul>

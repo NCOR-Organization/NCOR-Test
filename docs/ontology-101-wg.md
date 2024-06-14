@@ -45,6 +45,17 @@ h1, h2, p, a, li {
 
 <p>If you would like to attend 101WG meetings either in-person or remotely, contact John Beverley at: johnbeve[@]buffalo.edu.</p>
 
+<h2>Ontology 101 Resources</h2>
+
+<p>There are numerous ontology engineering resources leveraged in group meetings for the purposes of educating newcomers; some such resources include:</p>
+<ul>
+  <li><a href="https://protege.stanford.edu/" class="custom-color">Protege Ontology Editor</a></li>
+  <li><a href="https://www.w3.org/TR/sparql11-query/" class="custom-color">W3C SPARQL 1.1 Documentation</a></li>
+  <li><a href="https://github.com/semantalytics/awesome-semantic-web" class="custom-color">Semantic Web Resources GitHub Page.</a></li>
+  <li><a href="http://ncorwiki.buffalo.edu/index.php/Analytic_Metaphysics_(2016)">Analytic Metaphysics 2016</a></li>
+  <li><a href="http://ncorwiki.buffalo.edu/index.php/Ontological_Engineering_2013">Ontological Engineering 2013</a></li>
+</ul>
+
 <h2>Minutes</h2>
 
 <ul>
@@ -59,15 +70,4 @@ h1, h2, p, a, li {
   <li><a href="https://drive.google.com/file/d/13RLPGuVKaTh8-Jg1TUB_HA7PiucaM9kM/view?usp=sharing"> March 27</a></li>
   <li><a href="https://drive.google.com/file/d/12AOh3no2_5YFxdGGbWrzEUeYmbeijLYA/view?usp=sharing"> April 03</a></li>
   <li><a href="https://drive.google.com/file/d/1HzuiQTVlc0v97eUSVZgatGTu4tM4s13h/view?usp=sharing"> April 10</a></li>
-</ul>
-
-<h2>Ontology 101 Resources</h2>
-
-<p>There are numerous ontology engineering resources leveraged in group meetings for the purposes of educating newcomers; some such resources include:</p>
-<ul>
-  <li><a href="https://protege.stanford.edu/" class="custom-color">Protege Ontology Editor</a></li>
-  <li><a href="https://www.w3.org/TR/sparql11-query/" class="custom-color">W3C SPARQL 1.1 Documentation</a></li>
-  <li><a href="https://github.com/semantalytics/awesome-semantic-web" class="custom-color">Semantic Web Resources GitHub Page.</a></li>
-  <li><a href="http://ncorwiki.buffalo.edu/index.php/Analytic_Metaphysics_(2016)">Analytic Metaphysics 2016</a></li>
-  <li><a href="http://ncorwiki.buffalo.edu/index.php/Ontological_Engineering_2013">Ontological Engineering 2013</a></li>
 </ul>
