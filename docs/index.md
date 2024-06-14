@@ -9,7 +9,7 @@
     <h1>National Center for Ontological Research (NCOR)</h1>
     <p>The <a href="https://www.buffalo.edu/ncor.html" target="_blank">National Center for Ontological Research (NCOR)</a> was established in Buffalo in 2005 by <a href="https://ontology.buffalo.edu/smith/" target="_blank">Barry Smith</a> with the goal of advancing the quality of ontological research and development and of establishing tools and measures for ontology evaluation and quality assurance. NCOR draws on the expertise of ontologists associated with the <a href="https://www.buffalo.edu/" target="_blank">University at Buffalo</a> and of their collaborators in scientific, commercial, and government institutions throughout the world.</p>
 
-    <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Smith_Barry.jpg" alt="Barry Smith" style="width:50%;">
+     <div class="center-text"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Smith_Barry.jpg" alt="Barry Smith" style="width:50%;"></div>
     
     <p>NCOR serves as a vehicle to coordinate, enhance, publicize, and seek funding for ontological research activities. It provides coordination, infrastructure, and independent review to organizations employing ontologies in fields such as defense and intelligence, management, healthcare, and biomedical sciences.</p>
 
