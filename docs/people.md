@@ -446,7 +446,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2023/05/prudhomme_retina_small.jpg" alt="Tim Prudhomme" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/tim-prudhomme/">Tim Prudhomme</a></h3>
-            Software Developer <br> KadSci
+            Software Developer <br> Conceptual Systems
             <p><em>Research in Formal Semantics, Semantic Web, and Software Development in Healthcare and Bioinformatics</em></p>
         </div>
     </div>
