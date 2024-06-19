@@ -41,7 +41,7 @@ h1, h2, p, a, li {
 
 <h2>Semantic Mappings</h2>
 <p>
-The NCOR Semantic Mapping Working Group (SMWG) is comprised of academics, researchers, students, and other parties motivated to construct semantic mappings between various popular ontology artifacts and the Basic Formal Ontology and its extensions. The group has in particular focused on a mapping between BFO and the W3C standard Provenance Ontology (PROV-O), as well as a mapping between the Common Core Ontologies suit and PROV-O.</p>
+The NCOR Semantic Mapping Working Group (SMWG) is comprised of academics, researchers, students, and other parties motivated to construct semantic mappings between various popular ontology artifacts and the Basic Formal Ontology and its extensions. The group has in particular focused on a mapping between BFO and the W3C standard Provenance Ontology (PROV-O), as well as a mapping between the Common Core Ontologies suite and PROV-O.</p>
 
 <p>The SMWG is chaired by <a href="https://www.linkedin.com/in/tim-prudhomme/" class="custom-color">Tim Prudhomme</a>. Meetings regularly involve discussion of challenges associated with semantic mappings, both conceptual and technical. Please see the minutes from past meetings below for a better understanding of topics covered. Meetings are held weekly.</p>
 
