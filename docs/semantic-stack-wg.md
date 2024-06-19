@@ -40,7 +40,7 @@ h1, h2, p, a, li {
 <h1>Semantic Stack Working Group</h1>
 
 <h2>The Semantic Web Stack</h2>
-<p><a href="https://en.wikipedia.org/wiki/Semantic_Web_Stack" class="custom-color">The Semantic Web Stack</a> is a suite of technologies that extend the semantic web as envisioned by <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" class="custom-color">Tim Berners-Lee</a>. The stack includes data models such as the <a href="https://www.w3.org/RDF/" class="custom-color">Resource Description Framework</a>, formal languages such as the <a href="https://www.w3.org/OWL/" class="custom-color">Web Ontology Language</a>, as well as the ,<a href="https://www.w3.org/TR/sparql11-overview/" class="custom-color">SPARQL</a> query language. 
+<p><a href="https://en.wikipedia.org/wiki/Semantic_Web_Stack" class="custom-color">The Semantic Web Stack</a> is a suite of technologies that extend the semantic web as envisioned by <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" class="custom-color">Tim Berners-Lee</a>. The stack includes data models such as the <a href="https://www.w3.org/RDF/" class="custom-color">Resource Description Framework</a>, formal languages such as the <a href="https://www.w3.org/OWL/" class="custom-color">Web Ontology Language</a>, as well as the <a href="https://www.w3.org/TR/sparql11-overview/" class="custom-color">SPARQL</a> query language. 
 
 <h2>Semantic Stack WG</h2>
 <p>The aim of the NCOR Semantic Stack Working Group (SSWG) is to cultivate understanding, practice implementation, and promote creative use of the semantic web stack. The group is comprised of academics, students, and professionals with a common interest in the semantic web stack as used in ontology engineering, application development, and integration with modern artificial intelligence technologies.</p>
@@ -48,7 +48,7 @@ h1, h2, p, a, li {
 <p>If you would like to attend SSWG meetings either in-person or remotely, contact John at: johnbeve[@]buffalo.edu.</p>
 
 <h2>Semantic Web Resources</h2>
-<p>D-Acts is an open-source based on work by Barry Smith on document acts; resources covering past, present, and future efforts can be found below:</p>
+<p>D-Acts is an open-source ontology based on work by Barry Smith on document acts; resources covering past, present, and future efforts can be found below:</p>
 <ul>
   <li><a href="https://github.com/jonathanvajda/cco-d-acts/blob/main/use-cases.md" class="custom-color">UB Logic for Ontologies Seminar</a></li>
   <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4614-8265-9_1320" class="custom-color">History of the Semantic Web</a></li>
