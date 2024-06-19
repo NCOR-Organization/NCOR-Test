@@ -48,9 +48,9 @@ h1, h2, p, a, li {
 <p>If you would like to attend SSWG meetings either in-person or remotely, contact John at: johnbeve[@]buffalo.edu.</p>
 
 <h2>Semantic Web Resources</h2>
-<p>D-Acts is an open-source ontology based on work by Barry Smith on document acts; resources covering past, present, and future efforts can be found below:</p>
+<p>SSWG leverages many open-source resources such as:</p>
 <ul>
-  <li><a href="https://github.com/jonathanvajda/cco-d-acts/blob/main/use-cases.md" class="custom-color">UB Logic for Ontologies Seminar</a></li>
+  <li><a href="https://github.com/johnbeve/PHI-696" class="custom-color">UB Logic for Ontologies Seminar</a></li>
   <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4614-8265-9_1320" class="custom-color">History of the Semantic Web</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-3626-7_12" class="custom-color">Decade Review of Semantic Web Stack</a></li>
 </ul>

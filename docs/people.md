@@ -641,7 +641,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/daniel.jpeg" alt="Daniel Novotny" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/daniel.png" alt="Daniel Novotny" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.unine.ch/philo/en/home/collaborateurs-trices/francesco-franda-post-doc.html">Daniel Novotny </a></h3>
             Assistant Professor <br> University of South Bohemia
