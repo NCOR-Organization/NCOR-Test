@@ -50,7 +50,7 @@
         <div class="grid-item-content">
             <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
             <a href="//obofoundry.org/">Ontologist <br> Open Biological and Biomedical Ontology Foundry</a>
-            <p><em>Research in Knowledge Representation, Computational Biology, Bioinformatics, Artificial Intelligence, Rich User interface, Parallel Computing</em></p>
+            <p><em>Research in Knowledge Representation, Computational Biology, Bioinformatics, Artificial Intelligence, Rich User Interface, and Parallel Computing</em></p>
         </div>
     </div>
 </div>
@@ -73,7 +73,7 @@
         <div class="grid-item-content">
             <h3><a href="https://dental.ufl.edu/profile/duncan-bill/Bill Duncan">Bill Duncan</a></h3>
             <p><a>Clinical Associate Professor University of Florida College of Dentistry Department of Community Dentistry &amp; Behavioral Science</a></p>
-            <p><em>Research in Ontology, Dental Informatics, &amp; Machine Learning</em></p>
+            <p><em>Research in Ontology, Dental Informatics, and Machine Learning</em></p>
         </div>
     </div>
     <div class="grid-item">
@@ -90,7 +90,7 @@
         <div class="grid-item-content">
             <h3><a href="http://davidglimbaugh.com/">David G. Limbaugh</a></h3>
             Senior Ontologist
-            <p><em>Research in Defense/Intelligence Ontology and Knowledge Modeling, Theoretical Ontology, Referent Tracking, Object-Based Production</em></p>
+            <p><em>Research in Defense/Intelligence Ontology and Knowledge Modeling, Theoretical Ontology, Referent Tracking, and Object-Based Production</em></p>
         </div>
     </div>
 
@@ -108,7 +108,7 @@
         <div class="grid-item-content">
             <h3><a href="https://mba.eci.ufmg.br/english/">Mauricio B Almeida</a></h3>
             <a href="http://www.eci.ufmg.br">Information Science School, Federal University of Minas Gerais, Founding Director, Brazilian Center for Ontological Research</a>
-            <p><em>Research in Knowledge Representation, Applied Ontology, Information Security, Biomedical and Legal Vocabularies</em></p>
+            <p><em>Research in Knowledge Representation, Applied Ontology, Information Security, and Biomedical and Legal Vocabularies</em></p>
         </div>
     </div>
 
@@ -151,7 +151,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/fabian.jpg" alt="Fabian Neuhaus">
         <div class="grid-item-content">
             <h3><a href="http://iws.cs.uni-magdeburg.de/~fneuhaus/">Fabian Neuhaus</a></h3>
-            <a href="//www.ovgu.de/">Chair for Theoretical Computer Science, Formal methods and Semantics <br> Otto-von-Guericke, University of Magdeburg</a>
+            <a href="//www.ovgu.de/">Chair for Theoretical Computer Science, Formal Methods and Semantics <br> Otto-von-Guericke, University of Magdeburg</a>
             <p><em>Research in Applied Ontologies and Ontology Languages</em></p>
         </div>
     </div>
@@ -161,7 +161,7 @@
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/pierregrenon/">Pierre Grenon</a></h3>
             <a href="//us.gsk.com/en-us/home/">Senior Scientific Knowledge Engineer</a>
-            <p><em>Research in Applied Ontology, Integration and Domain-Specific Modelling, Knowledge Representation, Reasoning, Information Management</em></p>
+            <p><em>Research in Applied Ontology, Integration and Domain-Specific Modelling, Knowledge Representation, Reasoning, and Information Management</em></p>
         </div>
     </div>
 
@@ -170,7 +170,7 @@
         <div class="grid-item-content">
             <h3><a href="https://jonsimon.net">Jonathan Simon</a></h3>
             <a href="//philo.umontreal.ca/accueil/">Assistant Professor of Philosophy <br> University of Montréal</a>
-            <p><em>Research in AI explainability and transparency, ontology of socially complex domains</em></p>
+            <p><em>Research in AI Explainability and Transparency and the Ontology of Socially Complex Domains</em></p>
         </div>
     </div>
 
@@ -179,7 +179,7 @@
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/jose-m-parente-de-oliveira-53188618/">José M Parente de Oliveira</a></h3>
             <a href="//www.engrena.ita.br/en/ccm-ita-en/">Professor Computer Science <br> Aeronautics Institute of Technology</a>
-            <p><em>Research in Knowledge Representation, Semantic Web, Linked Data/Big Data, Command and Control/Situation Awareness</em></p>
+            <p><em>Research in Knowledge Representation, Semantic Web, Linked Data/Big Data, and Command and Control/Situation Awareness</em></p>
         </div>
     </div>
 
@@ -233,7 +233,7 @@
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/mark-jensen-022a98103/">Mark Jensen</a></h3>
             Senior Ontologist <br> CUBRC, Inc
-            <p><em>Research in Development and implementation of ontologies for military and biomedical applications; mental health, psychiatry, and neurology</em></p>
+            <p><em>Research in development and implementation of ontologies for military and biomedical applications; mental health, psychiatry, and neurology</em></p>
         </div>
     </div>
 
@@ -250,7 +250,7 @@
         <div class="grid-item-content">
             <h3><a href="http://www.acsu.buffalo.edu/~new/">Neil E. Williams</a></h3>
             <a href="//www.buffalo.edu/cas/philosophy/faculty/faculty_directory/williams.html">Professor & Chair of the Department of Philosophy University at Buffalo</a>
-            <p><em>Research in Traditional Metaphysics, Powers, Ontology of Disease and Dysfunction</em></p>
+            <p><em>Research in Traditional Metaphysics, Powers, and Ontology of Disease and Dysfunction</em></p>
         </div>
     </div>
 
@@ -286,7 +286,7 @@
         <div class="grid-item-content">
             <h3><a href="www.rasmusrosenberg.com">Rasmus Rosenberg Larsen</a></h3>
             <a href="https://www.utm.utoronto.ca/forensic/forensic-science-news-updates">Assistant Professor of Philosophy and Forensic Epistemology <br> University of Toronto Mississauga</a>
-            <p><em>Research in Applied Ontology, Philosophy of Science, Forensic Epistemology, Forensic Psychology</em></p>
+            <p><em>Research in Applied Ontology, Philosophy of Science, Forensic Epistemology, and Forensic Psychology</em></p>
         </div>
     </div>
 
@@ -312,7 +312,7 @@
         <div class="grid-item-content">
             <h3>James Overton</h3>
             <a href="http://knocean.com">CEO of Knocean</a>
-            <p><em>Research in Database integration, Ontology Development, Software Development, Philosophy of Science</em></p>
+            <p><em>Research in Database Integration, Ontology Development, Software Development, and Philosophy of Science</em></p>
         </div>
     </div>
 
@@ -383,7 +383,7 @@
         <div class="grid-item-content">
             <h3><a href="https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/donnelly.html">Maureen Donnelly</a></h3>
             Associate Professor in the Department of Philosophy <br>University at Buffalo
-            <p><em>Research in Logic, Formal Foundations of Ontology, Mereology, Biomedical Ontology</em></p>
+            <p><em>Research in Logic, Formal Foundations of Ontology, Mereology, and Biomedical Ontology</em></p>
         </div>
     </div>
 
@@ -392,7 +392,7 @@
         <div class="grid-item-content">
             <h3><a href="https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/hershenov.html">David B. Hershenov</a></h3>
             Professor in the Department of Philosophy <br> University at Buffalo <br>
-            <a href="https://www.buffalo.edu/romanell.html">Co-director of Romanell Center for Clinical Ethics and the Philosophy of Medicine</a>
+            <a href="https://www.buffalo.edu/romanell.html">Director of Romanell Center for Clinical Ethics and the Philosophy of Medicine</a>
             <p><em>Research in Metaphysics, Ethics of Medicine, Abortion, Death, Cloning, and Personal Identity</em></p>
         </div>
     </div>
@@ -465,7 +465,7 @@
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/furini-francesco/">Francesco Furini</a></h3>
             Partner and Project Manager <br> Ultrasonic Technology
-            <p><em>Research in Appied Ontology and Engineering Design</em></p>
+            <p><em>Research in Applied Ontology and Engineering Design</em></p>
         </div>
     </div>
 
@@ -599,8 +599,8 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a></h3>
-            Graduate Student <br> Department of Philosophy, University at Buffalo
-            <p><em>Research in Quantum Ontologies, Occupation Ontologies, and ontologies of impact measurements</em></p>
+            Graduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Quantum Ontologies, Occupation Ontologies, and Ontologies of Impact Measurements</em></p>
         </div>
     </div>
 
@@ -608,8 +608,8 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/billig.png" alt="Josh Billig" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/josh-billig-0680041b8/">Josh Billig</a></h3>
-            Undergraduate Student <br> Department of Philosophy, University at Buffalo
-            <p><em>Research in Cyber Security and Intelligence ontologies</em></p>
+            Undergraduate Student <br> Department of Philosophy University at Buffalo
+            <p><em>Research in Cyber Security and Intelligence Ontologies</em></p>
         </div>
     </div>
 
@@ -618,16 +618,16 @@
         <div class="grid-item-content">
             <h3><a href="https://www.researchgate.net/scientific-contributions/B-Damayanthi-Jesudas-2123238395">Damayanthi Jesudas</a></h3>
             Research Affiliate <br> National Center for Ontological Research
-            <p><em>Research in knowledge graphs, ontologies, and natural language processing</em></p>
+            <p><em>Research in Knowledge Graphs, Ontologies, and Natural Language Processing</em></p>
         </div>
     </div>
 
 <div class="grid-item">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/mclellan.jpeg" alt="Damayanthi Jesudas" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/mclellan.jpeg" alt="Jon McLellan" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://kadsci.com/about/">Jon McLellan</a></h3>
             Senior Ontologist <br> KadSci
-            <p><em>Research in ontologies, generative and causal AI</em></p>
+            <p><em>Research in Ontologies and Generative and Causal AI</em></p>
         </div>
     </div>
 
@@ -635,7 +635,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/franda.jpeg" alt="Francesco Franda" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.unine.ch/philo/en/home/collaborateurs-trices/francesco-franda-post-doc.html">Francesco Franda </a></h3>
-            SNSF postdoctoral researcher <br> University of Neuchâtel, Switzerland
+            SNSF Postdoctoral Researcher <br> University of Neuchâtel, Switzerland
             <p><em>Research in Social Ontology, Metaphysics, Philosophy of the Social Sciences, and Applied Ontology</em></p>
         </div>
     </div>

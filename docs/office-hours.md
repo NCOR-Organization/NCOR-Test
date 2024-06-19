@@ -52,13 +52,13 @@ h1, h2, p, a, li {
 
 <p>If you are interested in joining one or more office hours, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu. You will be provided a Teams invite for the scheduled time.</p>
 
-<p>In addition to the biweekly office hours, there is an associated Slack channel for the group where stakeholders may continue conversation with the BFO and CCO leads. As above, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu to be added to the BFO-CCO Office House Slack channel.</p>
+<p>In addition to the biweekly office hours, there is an associated Slack channel for the group where stakeholders may continue conversation with the BFO and CCO leads. As above, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu to be added to the BFO-CCO Office Hours Slack channel.</p>
 
-<p>As stakeholder questions are addressed, we will also establish an "FAQ" where stakeholders will be directed for vetted answers to commonly posed questions.<p>
+<p>As stakeholder questions are addressed, we will also establish a "FAQ" where stakeholders will be directed for vetted answers to commonly posed questions.<p>
 
 <h2>BFO and CCO Resources</h2>
 
-<p>Genuine, robust, semantic mappings across ontologies are challenging to create and there are numerous resources the group has leveraged to make progress:</p>
+<p>The following are just some of many resources available concerning BFO and CCO:</p>
 <ul>
   <li><a href="https://basic-formal-ontology.org/" class="custom-color">BFO Homepage</a></li>
   <li><a href="https://github.com/BFO-ontology/BFO-2020" class="custom-color">BFO GitHub Repository</a></li>
