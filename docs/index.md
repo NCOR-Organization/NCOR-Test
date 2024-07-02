@@ -8,12 +8,12 @@
 <body>
     <h1>National Center for Ontological Research (NCOR)</h1>
     <p>The <a href="https://www.buffalo.edu/ncor.html" target="_blank">National Center for Ontological Research (NCOR)</a> was established in Buffalo in 2005 by <a href="https://ontology.buffalo.edu/smith/" target="_blank">Barry Smith</a> with the goal of advancing the quality of ontological research and development and of establishing tools and measures for ontology evaluation and quality assurance. NCOR draws on the expertise of ontologists associated with the <a href="https://www.buffalo.edu/" target="_blank">University at Buffalo</a> and of their collaborators in scientific, commercial, and government institutions throughout the world.</p>
-
-     <div class="center-text"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Smith_Barry.jpg" alt="Barry Smith" style="width:50%;"></div>
     
     <p>NCOR serves as a vehicle to coordinate, enhance, publicize, and seek funding for ontological research activities. It provides coordination, infrastructure, and independent review to organizations employing ontologies in fields such as defense and intelligence, management, healthcare, and biomedical sciences.</p>
 
     <p>It provides researchers working in ontology-related areas with specialized support in seeking external funding and in assembling collaborative, interdisciplinary teams both nationally and internationally. It provides consultant services for ontology projects, especially in the defense and security fields and in health care and biomedical informatics. NCOR also engages in training and outreach endeavors that are designed to broaden the range of institutions and individuals accepting the goals of high-quality ontology in both theory and practice.</p>
+
+    <div class="center-text"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Smith_Barry.jpg" alt="Barry Smith" style="width:25%;"></div>
 
     <h2>Contemporary Ontology</h2>
     <p>Contemporary ontology is a partnership of multiple disciplines. On the one hand, ontological research involves philosophers who are concerned to describe broad categories of entities and their most basic relationships. On the other hand, ontologists are working in diverse fields of computer and information science to provide more narrowly focused classification systems in areas such as bioinformatics, engineering, or defense and security.</p>

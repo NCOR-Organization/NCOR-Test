@@ -39,7 +39,7 @@ nav:
       #- Specialist: specialists.md
     #- Bootcamps: bootcamps.md
     - Open-Access Resources: open-access-courses.md
-  #- News: events.md
+  - NCOR Wiki: wiki.md
 
 extra:
   social:
