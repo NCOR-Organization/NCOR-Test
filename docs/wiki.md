@@ -39,7 +39,7 @@ h1, h2, p, a, li {
 <body>
 <h1>NCOR Wiki</h1>
 
-<iframe src="https://ncorwiki.buffalo.edu/index.php/Main_Page" style="width: 100%; border: none;"></iframe>
+<iframe src="https://ncorwiki.buffalo.edu/index.php/Main_Page" style="width: 100%; height: 100%; border: none;"></iframe>
 
 </body>
 </html>
