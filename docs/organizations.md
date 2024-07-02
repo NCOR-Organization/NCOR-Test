@@ -93,11 +93,11 @@
         </div>
     </div>
     <div class="grid-item">
-        <a href="https://kadsci.com/">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kadsci.png" alt="KadSci">
+        <a href="https://www.utsouthwestern.edu/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/utsouthwestern.png" alt="University of Texas Southwestern Medical Center">
         </a>
         <div class="grid-item-content">
-            <h3><a href="https://kadsci.com/">KadSci</a></h3>
+            <h3><a href="https://www.utsouthwestern.edu/">University of Texas Southwestern Medical Center</a></h3>
         </div>
     </div>
     <div class="grid-item">
@@ -141,19 +141,11 @@
         </div>
     </div>
     <div class="grid-item">
-        <a href="https://www.utsouthwestern.edu/">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/utsouthwestern.png" alt="University of Texas Southwestern Medical Center">
+        <a href="https://kadsci.com/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kadsci.png" alt="KadSci">
         </a>
         <div class="grid-item-content">
-            <h3><a href="https://www.utsouthwestern.edu/">University of Texas Southwestern Medical Center</a></h3>
-        </div>
-    </div>
-    <div class="grid-item">
-        <a href="https://oe.tradoc.army.mil/">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tradoc.png" alt="TRADOC Operational Environment Center">
-        </a>
-        <div class="grid-item-content">
-            <h3><a href="https://oe.tradoc.army.mil/">TRADOC Operational Environment Center</a></h3>
+            <h3><a href="https://kadsci.com/">KadSci</a></h3>
         </div>
     </div>
     <div class="grid-item">
@@ -162,6 +154,14 @@
         </a>
         <div class="grid-item-content">
             <h3><a href="https://www.sciencecast.org/">ScienceCast</a></h3>
+        </div>
+    </div>
+    <div class="grid-item">
+        <a href="https://oe.tradoc.army.mil/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tradoc.png" alt="TRADOC Operational Environment Center">
+        </a>
+        <div class="grid-item-content">
+            <h3><a href="https://oe.tradoc.army.mil/">TRADOC Operational Environment Center</a></h3>
         </div>
     </div>
     <div class="grid-item">
@@ -189,11 +189,11 @@
         </div>
     </div>
     <div class="grid-item">
-        <a href="https://improvado.io/">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/imrpovado.png" alt="Improvado">
+        <a href="https://www.buffalo.edu/cimif.html">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cimif.png" alt="Collaborative Institute for Multisource Information Fusion">
         </a>
         <div class="grid-item-content">
-            <h3><a href="https://improvado.io/">Improvado</a></h3>
+            <h3><a href="https://www.buffalo.edu/cimif.html">University at Buffalo (UB) Collaborative Institute for Multisource Information Fusion</a></h3>
         </div>
     </div>
     <div class="grid-item">
@@ -205,12 +205,12 @@
         </div>
     </div>
     <div class="grid-item">
-        <a href="https://www.buffalo.edu/cimif.html">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cimif.png" alt="Collaborative Institute for Multisource Information Fusion">
+        <a href="https://improvado.io/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/imrpovado.png" alt="Improvado">
         </a>
         <div class="grid-item-content">
-            <h3><a href="https://www.buffalo.edu/cimif.html">University at Buffalo (UB) Collaborative Institute for Multisource Information Fusion</a></h3>
-        </div>
+            <h3><a href="https://improvado.io/">Improvado</a></h3>
+    </div>
     </div>
     <div class="grid-item">
         <a href="https://www.umass.edu/engineering/mechanical-and-industrial-engineering">
