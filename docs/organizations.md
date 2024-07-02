@@ -14,15 +14,16 @@
             display: flex;
             flex-direction: column;
             align-items: center;
+            justify-content: center;
             border: 1px solid lightgrey;
             border-radius: 5px;
             padding: 10px;
             background-color: white;
+            height: 250px; /* Added a fixed height to ensure uniform cell size */
         }
         .grid-item img {
-            width: 100%;
-            max-width: 200px;
-            height: auto;
+            max-width: 100%;
+            max-height: 150px; /* Ensure the image doesn't exceed this height */
             object-fit: contain;
             border-radius: 5px;
         }
@@ -34,7 +35,6 @@
         }
     </style>
 </head>
-<body>
 <body>
 <div class="grid-container">
     <div class="grid-item">
@@ -245,7 +245,7 @@
             <h3><a href="http://berkeleybop.org/">Berkeley Bioinformatics Open-source Projects (BBOP)</a></h3>
         </div>
     </div>
-    <div class="grid-item">A
+    <div class="grid-item">
         <a href="https://www.afrl.af.mil/">
             <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/afrl.png" alt="Air Force Research Laboratory, Rome">
         </a>
