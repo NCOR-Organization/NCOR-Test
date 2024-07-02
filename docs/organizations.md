@@ -14,16 +14,15 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
             border: 1px solid lightgrey;
             border-radius: 5px;
             padding: 10px;
             background-color: white;
-            height: 250px; /* Added a fixed height to ensure uniform cell size */
         }
         .grid-item img {
-            max-width: 100%;
-            max-height: 150px; /* Ensure the image doesn't exceed this height */
+            width: 100%;
+            max-width: 200px;
+            height: auto;
             object-fit: contain;
             border-radius: 5px;
         }
