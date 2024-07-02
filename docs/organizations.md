@@ -3,32 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>Partner Organizations</title>
-<style>
-.grid-container {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 20px;
-    }
-.grid-item {
-        display: flex;
-        flex-direction: column;
-        align-items: center; 
-    }
-.grid-item img {
-        width: 200px;
-        height: 200px;
-        object-fit: cover;
-        border-radius: 5px;
-    }
-.grid-item-content {
-        /* max-height: 300px; /* set to the height of the image */
-        line-height: 1.0;
-        max-width: 200px;
-        /* overflow: hidden; /* hides any content that exceeds the max-height */
-        text-align: center; /* centers the text */
-        padding: 10px 0; /* some vertical padding */
-    }
-</style>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            padding: 20px;
+        }
+        .grid-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .grid-item img {
+            width: 100%;
+            max-width: 200px;
+            height: auto;
+            object-fit: contain;
+            border-radius: 5px;
+        }
+        .grid-item-content {
+            line-height: 1.0;
+            max-width: 200px;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
 </head>
 <body>
 <div class="grid-container">
@@ -145,7 +145,9 @@
         </div>
     </div>
     <div class="grid-item">
-        <img src="https://oe.tradoc.army.mil/"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tradoc.png" alt="TRADOC Operational Environment Center"></a>
+        <a href="https://oe.tradoc.army.mil/">
+            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tradoc.png" alt="TRADOC Operational Environment Center">
+        </a>
         <div class="grid-item-content">
             <h3><a href="https://oe.tradoc.army.mil/">TRADOC Operational Environment Center</a></h3>
         </div>
