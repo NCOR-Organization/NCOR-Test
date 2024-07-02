@@ -48,35 +48,41 @@
             <h3><a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">Division of Biomedical Ontology</a></h3>
         </div>
     </div>
+
     <div class="grid-item">
         <img src="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/philosophy.png" alt="Department of Philosophy">
         <div class="grid-item-content">
             <h3><a href="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html">Department of Philosophy
     </div>
+
     <div class="grid-item">
         <img src="https://ontology-br.com.br/about/"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
         <div class="grid-item-content">
             <h3><a href="https://ontology-br.com.br/about/">NCOR Brazil</a></h3>
         </div>
     </div>
+
     <div class="grid-item">
         <img src="https://www.jhuapl.edu/"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/apl.png" alt="Johns Hopkins University Applied Physics Laboratory">
         <div class="grid-item-content">
             <h3><a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Laboratory</a></h3>
         </div>
     </div>
+
     <div class="grid-item">
         <img src="https://eil.mie.utoronto.ca/projects/tove-project/"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/tove.png" alt="Enterprise Integration Laboratory">
         <div class="grid-item-content">
             <h3><a href="https://eil.mie.utoronto.ca/projects/tove-project/">Enterprise Integration Laboratory</a></h3>
         </div>
     </div>
+
     <div class="grid-item">
         <img src="https://kadsci.com/"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/kadsci.png" alt="KadSci">
         <div class="grid-item-content">
             <h3><a href="https://kadsci.com/">KadSci</a></h3>
         </div>
     </div>
+    
     <div class="grid-item">
         <img src="https://www.buffalo.edu/ai-data-science.html"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
         <div class="grid-item-content">
