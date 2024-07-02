@@ -17,7 +17,7 @@
             border: 1px solid lightgrey;
             border-radius: 5px;
             padding: 10px;
-            background-color: white;
+            background-color: #f0f0f0; /* Light grey background */
         }
         .grid-item img {
             width: 100%;
