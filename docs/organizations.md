@@ -14,6 +14,10 @@
             display: flex;
             flex-direction: column;
             align-items: center;
+            border: 1px solid lightgrey;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: white;
         }
         .grid-item img {
             width: 100%;
@@ -30,6 +34,7 @@
         }
     </style>
 </head>
+<body>
 <body>
 <div class="grid-container">
     <div class="grid-item">
