@@ -1,0 +1,100 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 1s;
+}
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+.siema {
+  margin: 20px 0;
+  overflow: hidden;
+  width: 100%;
+}
+.siema .card {
+  min-width: 100%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+}
+.card-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+flex-direction: column;
+margin:auto;
+width: 900px ;
+}
+.card-container .card {
+background-color: #00478e;
+color: white;
+padding: 20px;
+margin: 10px;
+width: 900px;
+border-radius: 10px;
+position: relative;
+justify-content: center;
+/* align-items: center; */
+text-align: center;
+border: 2px solid #00478e;
+}
+.card-container .card::after {
+content: "";
+position: absolute;
+top: 5px;
+bottom: 5px;
+left: 5px;
+right: 5px;
+border: 2px solid white;
+border-radius: 8px;
+pointer-events: none;
+}
+.card h3 {
+margin-top: 0;
+}
+.card h4 {
+margin-top: 0;
+text-align: center;
+}
+button {
+padding: 10px 20px;
+margin: 5px;
+background-color: #007bff;
+color: white;
+border: none;
+cursor: pointer;
+}
+button:focus {
+outline: none;
+}
+.center-text {
+  text-align: center;
+}
