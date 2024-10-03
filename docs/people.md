@@ -650,7 +650,7 @@
     </div>
  </div>
     <div class="grid-item">
-        <img src="[https://github.com/NCOR-Organization/NCOR-Riverside/blob/main/docs/assets/photos/Cristian%20Keroles.jpg]" alt="Cristian Keroles" width="200" height="200">
+        <img src="https://github.com/NCOR-Organization/NCOR-Riverside/blob/main/docs/assets/photos/Cristian%20Keroles.jpg" alt="Cristian Keroles" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="www.linkedin.com/in/cristiankeroles">Cristian Keroles</a></h3>
             NCOR Lead (Riverside division)<br>
