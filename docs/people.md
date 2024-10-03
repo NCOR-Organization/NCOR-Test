@@ -648,5 +648,13 @@
             <p><em>Research in Applied Philosophy (Ontology, Ethics) and History of Philosophy</em></p>
         </div>
     </div>
-
+ </div>
+    <div class="grid-item">
+        <img src="[https://media.licdn.com/dms/image/v2/D5603AQHivFuMvpwUDQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726771952337?e=1733356800&v=beta&t=WcDjCOkTTZaj70Ab0iXDA0Su1bodT_EPBsFLk4eq8yU]" alt="Cristian Keroles" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="www.linkedin.com/in/cristiankeroles">Cristian Keroles</a></h3>
+            NCOR Lead (Riverside division)<br>
+            <a Undergraduate student at California State University of California </a>
+            <p><em>Research in Applied Ontology, Logic, and Metaphysics</em></p>
+        </div>
 </div>
