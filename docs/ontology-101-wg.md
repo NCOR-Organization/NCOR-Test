@@ -78,4 +78,10 @@ h1, h2, p, a, li {
   <li><a href="https://drive.google.com/file/d/18YFuPJjq2HBZ_MSjT30wousyllSsMHMr/view?usp=sharing"> July 24</a></li>
   <li><a href="https://drive.google.com/file/d/1AJE2ZDhe_dyiFfdHHypWiilBhcvgbRFI/view?usp=sharing"> July 31</a></li>
   <li><a href="https://drive.google.com/file/d/1f50dFAfAnBnGaaN8JQbxuRPj3r2oMaCi/view?usp=sharing"> August 07</a></li>
+  <li><a href="https://drive.google.com/file/d/1L0OgLOhaP3KHV1kEWItQSD0lEJOszZC1/view?usp=sharing"> August 14</a></li>
+  <li><a href="https://drive.google.com/file/d/1nduwg0DBo_-hdxIQqzshDJ2kmBQa1qAa/view?usp=sharing"> August 21</a></li>
+  <li><a href="https://drive.google.com/file/d/1ny-efhFDG54XOt6D8nZ--iY1gu3FiPnz/view?usp=sharing"> August 28</a></li>
+  <li><a href="https://drive.google.com/file/d/1cwCXE0QoBSnRsnerjDIwVmG4sUhRYohJ/view?usp=sharing"> September 04</a></li>
+  <li><a href="https://drive.google.com/file/d/1zbiutUj43EKNA3IMpMJQUGwSHnKUUuO2/view?usp=sharing"> Septermber 11</a></li>
+  <li><a href="https://drive.google.com/file/d/1MpySGd3EJzNffct8rj540jb1UaSyFC1O/view?usp=sharing"> September 18</a></li>
 </ul>
