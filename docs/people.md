@@ -655,7 +655,7 @@
             <h3><a href="https://www.linkedin.com/in/hector-guzman-orozco-b46967110/">Hector Guzman-Orozco</a></h3>
             NCOR Head (Riverside division)<br>
             <a href="https://www.msjc.edu/philosophy/">Assistant Professor of Philosophy at Mt. San Jacinto College</a></p>
-            <p><em>Ontology, Logic, and Philosophy of Language</em></p>
+            <p><em>Research in Applied Ontology and Philosophy of Language</em></p>
         </div>
     </div>
 
