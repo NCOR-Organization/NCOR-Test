@@ -84,4 +84,6 @@ h1, h2, p, a, li {
   <li><a href="https://drive.google.com/file/d/1cwCXE0QoBSnRsnerjDIwVmG4sUhRYohJ/view?usp=sharing"> September 04</a></li>
   <li><a href="https://drive.google.com/file/d/1zbiutUj43EKNA3IMpMJQUGwSHnKUUuO2/view?usp=sharing"> Septermber 11</a></li>
   <li><a href="https://drive.google.com/file/d/1MpySGd3EJzNffct8rj540jb1UaSyFC1O/view?usp=sharing"> September 18</a></li>
+  <li><a href="https://drive.google.com/file/d/1MVVRISebj6IA6ykvLiaf9YCuCEfozyd-/view?usp=share_link"> October 2</a></li>
 </ul>
+
