@@ -677,4 +677,14 @@
             <p><em>Research in Ontology of Entertainment Industries, Common Core Ontology Development, and Ontology of Roles</em></p>
         </div>
     </div>
+
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/PhilReed.png" alt="Philip Reed" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://philpeople.org/profiles/philip-reed?app=%27A%3D0%22%3EMarie-H%C3%A9l%C3%A8ne">Philip Reed</a></h3>
+            Professor, Canisius University<br>
+            Fellow at the Romanell Center for Clinical Ethics and the Philosophy of Medicine <br>
+            <p><em>Research in Ontological and Ethical aspects of Medicine, Politics, and Society</em></p>
+        </div>
+    </div>
  
