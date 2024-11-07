@@ -689,7 +689,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Jeremey.png" alt="Jérémy Ravenel" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Jeremey.jpg" alt="Jérémy Ravenel" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/jeremyravenel/">Jérémy Ravenel</a></h3>
             Founder of naas.ai and CashStory<br>
