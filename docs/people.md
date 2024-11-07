@@ -193,10 +193,10 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://www.buffalo.edu/content/cas/philosophy/grad-study/grad_directory/jcr:content/par/image_1660011936_cop_95204478.img.140.140.z.jpg/1663614423960.z.jpg" alt="Delaney McNulty" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Delaney.jpg" alt="Delaney McNulty" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/delaney-mcnulty-20541918a/">Delaney McNulty</a></h3>
-            <p>Department of Philosophy University at Buffalo </p>
+            <p>Department of Indigenous Studies</p>
             <p><em>Research in Philosophy of Science, Cognitive Science, Philosophy of Psychology, and Applied Ontology</em></p>
         </div>
     </div>
@@ -685,6 +685,15 @@
             Professor, Canisius University<br>
             Fellow at the Romanell Center for Clinical Ethics and the Philosophy of Medicine <br>
             <p><em>Research in Ontological and Ethical aspects of Medicine, Politics, and Society</em></p>
+        </div>
+    </div>
+
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Jeremey.jpg" alt="Jérémy Ravenel" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/jeremyravenel/">Jérémy Ravenel</a></h3>
+            Founder of naas.ai and CashStory<br>
+            <p><em>Data Product Development, Automated and AI Tool Development</em></p>
         </div>
     </div>
 
