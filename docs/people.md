@@ -697,5 +697,14 @@
         </div>
     </div>
 
+<div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/finn.jpg" alt="Finn Wilson" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/finn-wilson-3b3382213/">Finn Wilson</a></h3>
+            Graduate Student at UB Department of Philosophy, Teacher Assistant<br>
+            <p><em>Biomedical Ontology, Personal Identity</em></p>
+        </div>
+    </div>
+
 
  
